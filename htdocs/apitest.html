@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>API test</title></head>
+<body>
+<pre id="out">Testing...</pre>
+<script>
+fetch('https://stephenkanjaportal.infinityfreeapp.com/api/login.php', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+  body: 'identifier=test&passcode=test'
+})
+.then(r => r.text()).then(t => document.body.innerText = t)
+.catch(e => document.body.innerText = 'Fetch threw: ' + e.message);
+</script>
+</body>
+</html>

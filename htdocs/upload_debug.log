@@ -1,0 +1,1895 @@
+========================================
+2026-08-25 06:16:30 - UPLOAD STARTED
+Grade: 6, Term: Term 1, Year: 2026, Exam: endterm
+Headers found: Array
+(
+    [0] => Assessment No
+    [1] => First Name
+    [2] => Surname
+    [3] => Mathematics
+)
+
+Number of data rows: 59
+First Name column index: 1
+Surname column index: 2
+Subject columns: Array
+(
+    [math] => 3
+)
+
+Found 59 students in Grade 6
+Found 1 existing exam records
+
+Row 0: 'Saidi' 'Abdalla'
+  Found student: Assesment=, Name=Saidi Abdalla
+    math = 80
+  UPDATE successful for ID 550
+
+Row 1: 'Mulei' 'Ali'
+  Found student: Assesment=, Name=Mulei Ali
+    math = 60
+  UPDATE successful for ID 550
+
+Row 2: 'Nadzuwa' 'Ali'
+  Found student: Assesment=, Name=Nadzuwa Ali
+    math = 60
+  UPDATE successful for ID 550
+
+Row 3: 'Nasra' 'Ali'
+  Found student: Assesment=, Name=Nasra Ali
+    math = 60
+  UPDATE successful for ID 550
+
+Row 4: 'Binti' 'Bakari'
+  Found student: Assesment=, Name=Binti Bakari
+    math = 60
+  UPDATE successful for ID 550
+
+Row 5: 'Sila' 'Chaga'
+  Found student: Assesment=, Name=Sila Chaga
+    math = 60
+  UPDATE successful for ID 550
+
+Row 6: 'Loice' 'Chaka'
+  Found student: Assesment=, Name=Loice Chaka
+    math = 60
+  UPDATE successful for ID 550
+
+Row 7: 'Chizigwa' 'Chimega'
+  Found student: Assesment=, Name=Chizigwa Chimega
+    math = 60
+  UPDATE successful for ID 550
+
+Row 8: 'Mathew' 'Dablon'
+  Found student: Assesment=, Name=Mathew Dablon
+    math = 60
+  UPDATE successful for ID 550
+
+Row 9: 'Evans' 'Duga'
+  Found student: Assesment=, Name=Evans Duga
+    math = 60
+  UPDATE successful for ID 550
+
+Row 10: 'Saumu' 'Dzimwenga'
+  Found student: Assesment=, Name=Saumu Dzimwenga
+    math = 60
+  UPDATE successful for ID 550
+
+Row 11: 'Mwanalima' 'Dzine'
+  Found student: Assesment=, Name=Mwanalima Dzine
+    math = 60
+  UPDATE successful for ID 550
+
+Row 12: 'Faith' 'Fatuma'
+  Found student: Assesment=, Name=Faith Fatuma
+    math = 60
+  UPDATE successful for ID 550
+
+Row 13: 'Gloria' 'Festus'
+  Found student: Assesment=, Name=Gloria Festus
+    math = 60
+  UPDATE successful for ID 550
+
+Row 14: 'Habasi' 'Hamisi'
+  Found student: Assesment=, Name=Habasi Hamisi
+    math = 60
+  UPDATE successful for ID 550
+
+Row 15: 'Umazi' 'Hassan'
+  Found student: Assesment=, Name=Umazi Hassan
+    math = 60
+  UPDATE successful for ID 550
+
+Row 16: 'Malkia' 'Juma'
+  Found student: Assesment=, Name=Malkia Juma
+    math = 60
+  UPDATE successful for ID 550
+
+Row 17: 'Mohammed' 'Juma'
+  Found student: Assesment=, Name=Mohammed Juma
+    math = 60
+  UPDATE successful for ID 550
+
+Row 18: 'Daniel' 'Kadzingo'
+  Found student: Assesment=, Name=Daniel Kadzingo
+    math = 60
+  UPDATE successful for ID 550
+
+Row 19: 'Bahati' 'Karisa'
+  Found student: Assesment=, Name=Bahati Karisa
+    math = 60
+  UPDATE successful for ID 550
+
+Row 20: 'Stephen' 'Kazungu'
+  Found student: Assesment=, Name=Stephen Kazungu
+    math = 60
+  UPDATE successful for ID 550
+
+Row 21: 'James' 'Kilonzo'
+  Found student: Assesment=, Name=James Kilonzo
+    math = 60
+  UPDATE successful for ID 550
+
+Row 22: 'Hamisi' 'Kitumbua'
+  Found student: Assesment=, Name=Hamisi Kitumbua
+    math = 60
+  UPDATE successful for ID 550
+
+Row 23: 'Mose' 'Konga'
+  Found student: Assesment=, Name=Mose Konga
+    math = 60
+  UPDATE successful for ID 550
+
+Row 24: 'Eliud' 'Makanga'
+  Found student: Assesment=, Name=Eliud Makanga
+    math = 60
+  UPDATE successful for ID 550
+
+Row 25: 'Mercy' 'Masika'
+  Found student: Assesment=, Name=Mercy Masika
+    math = 60
+  UPDATE successful for ID 550
+
+Row 26: 'Hamisi' 'Masudi'
+  Found student: Assesment=, Name=Hamisi Masudi
+    math = 60
+  UPDATE successful for ID 550
+
+Row 27: 'Julita' 'Mbula'
+  Found student: Assesment=, Name=Julita Mbula
+    math = 60
+  UPDATE successful for ID 550
+
+Row 28: 'Zablon' 'Mbunzi'
+  Found student: Assesment=, Name=Zablon Mbunzi
+    math = 60
+  UPDATE successful for ID 550
+
+Row 29: 'Elizabeth' 'Mjeni'
+  Found student: Assesment=, Name=Elizabeth Mjeni
+    math = 60
+  UPDATE successful for ID 550
+
+Row 30: 'Samson' 'Moses'
+  Found student: Assesment=, Name=Samson Moses
+    math = 60
+  UPDATE successful for ID 550
+
+Row 31: 'Halima' 'Mtinda'
+  Found student: Assesment=, Name=Halima Mtinda
+    math = 60
+  UPDATE successful for ID 550
+
+Row 32: 'Muli' 'Mtua'
+  Found student: Assesment=, Name=Muli Mtua
+    math = 60
+  UPDATE successful for ID 550
+
+Row 33: 'Dzadze' 'Mudzomba'
+  Found student: Assesment=, Name=Dzadze Mudzomba
+    math = 60
+  UPDATE successful for ID 550
+
+Row 34: 'Caroline' 'Mueke'
+  Found student: Assesment=, Name=Caroline Mueke
+    math = 60
+  UPDATE successful for ID 550
+
+Row 35: 'Elizabeth' 'Munga'
+  Found student: Assesment=, Name=Elizabeth Munga
+    math = 60
+  UPDATE successful for ID 550
+
+Row 36: 'Betty' 'Mutheu'
+  Found student: Assesment=, Name=Betty Mutheu
+    math = 60
+  UPDATE successful for ID 550
+
+Row 37: 'Miriam' 'Mutheu'
+  Found student: Assesment=, Name=Miriam Mutheu
+    math = 60
+  UPDATE successful for ID 550
+
+Row 38: 'Zuma' 'Mwadiga'
+  Found student: Assesment=, Name=Zuma Mwadiga
+    math = 60
+  UPDATE successful for ID 550
+
+Row 39: 'Henry' 'Mwanyika'
+  Found student: Assesment=, Name=Henry Mwanyika
+    math = 60
+  UPDATE successful for ID 550
+
+Row 40: 'Immaculate' 'Mwero'
+  Found student: Assesment=, Name=Immaculate Mwero
+    math = 60
+  UPDATE successful for ID 550
+
+Row 41: 'Mary' 'Mwikali'
+  Found student: Assesment=, Name=Mary Mwikali
+    math = 60
+  UPDATE successful for ID 550
+
+Row 42: 'Daniel' 'Mzungu'
+  Found student: Assesment=, Name=Daniel Mzungu
+    math = 60
+  UPDATE successful for ID 550
+
+Row 43: 'Priscilla' 'Mzungu'
+  Found student: Assesment=, Name=Priscilla Mzungu
+    math = 60
+  UPDATE successful for ID 550
+
+Row 44: 'Daniel' 'Nasson'
+  Found student: Assesment=, Name=Daniel Nasson
+    math = 60
+  UPDATE successful for ID 550
+
+Row 45: 'Mohammed' 'Ndoro'
+  Found student: Assesment=, Name=Mohammed Ndoro
+    math = 60
+  UPDATE successful for ID 550
+
+Row 46: 'Esther' 'Ngome'
+  Found student: Assesment=, Name=Esther Ngome
+    math = 60
+  UPDATE successful for ID 550
+
+Row 47: 'Annastacia' 'Ngui'
+  Found student: Assesment=, Name=Annastacia Ngui
+    math = 60
+  UPDATE successful for ID 550
+
+Row 48: 'Margaret' 'Paul'
+  Found student: Assesment=, Name=Margaret Paul
+    math = 60
+  UPDATE successful for ID 550
+
+Row 49: 'Mueni' 'Paul'
+  Found student: Assesment=, Name=Mueni Paul
+    math = 60
+  UPDATE successful for ID 550
+
+Row 50: 'Samuel' 'Stella'
+  Found student: Assesment=, Name=Samuel Stella
+    math = 60
+  UPDATE successful for ID 550
+
+Row 51: 'Enoshi' 'Tsimba'
+  Found student: Assesment=, Name=Enoshi Tsimba
+    math = 60
+  UPDATE successful for ID 550
+
+Row 52: 'Rasoa' 'Tsimba'
+  Found student: Assesment=, Name=Rasoa Tsimba
+    math = 60
+  UPDATE successful for ID 550
+
+Row 53: 'Ismail' 'Tsuma'
+  Found student: Assesment=, Name=Ismail Tsuma
+    math = 60
+  UPDATE successful for ID 550
+
+Row 54: 'Polina' 'Tsuma'
+  Found student: Assesment=, Name=Polina Tsuma
+    math = 60
+  UPDATE successful for ID 550
+
+Row 55: 'Samuel' 'Tsuma'
+  Found student: Assesment=, Name=Samuel Tsuma
+    math = 60
+  UPDATE successful for ID 550
+
+Row 56: 'Grace' 'Wambua'
+  Found student: Assesment=, Name=Grace Wambua
+    math = 60
+  UPDATE successful for ID 550
+
+Row 57: 'Paul' 'Wambua'
+  Found student: Assesment=, Name=Paul Wambua
+    math = 60
+  UPDATE successful for ID 550
+
+Row 58: 'Collins' 'Wanza'
+  Found student: Assesment=, Name=Collins Wanza
+    math = 60
+  UPDATE successful for ID 550
+
+--- FINAL RESULTS ---
+Rows processed: 59
+Inserted: 0
+Updated: 59
+Skipped: 0
+
+========================================
+2026-08-26 03:20:50 - UPLOAD STARTED
+Total data rows read from file: 59
+Subject columns detected: math
+Row 2: UPDATED - 'Saidi Abdalla' (record id 550)
+Row 3: UPDATED - 'Mulei Ali' (record id 550)
+Row 4: UPDATED - 'Nadzuwa Ali' (record id 550)
+Row 5: UPDATED - 'Nasra Ali' (record id 550)
+Row 6: UPDATED - 'Binti Bakari' (record id 550)
+Row 7: UPDATED - 'Sila Chaga' (record id 550)
+Row 8: UPDATED - 'Loice Chaka' (record id 550)
+Row 9: UPDATED - 'Chizigwa Chimega' (record id 550)
+Row 10: UPDATED - 'Mathew Dablon' (record id 550)
+Row 11: UPDATED - 'Evans Duga' (record id 550)
+Row 12: UPDATED - 'Saumu Dzimwenga' (record id 550)
+Row 13: UPDATED - 'Mwanalima Dzine' (record id 550)
+Row 14: UPDATED - 'Faith Fatuma' (record id 550)
+Row 15: UPDATED - 'Gloria Festus' (record id 550)
+Row 16: UPDATED - 'Habasi Hamisi' (record id 550)
+Row 17: UPDATED - 'Umazi Hassan' (record id 550)
+Row 18: UPDATED - 'Malkia Juma' (record id 550)
+Row 19: UPDATED - 'Mohammed Juma' (record id 550)
+Row 20: UPDATED - 'Daniel Kadzingo' (record id 550)
+Row 21: UPDATED - 'Bahati Karisa' (record id 550)
+Row 22: UPDATED - 'Stephen Kazungu' (record id 550)
+Row 23: UPDATED - 'James Kilonzo' (record id 550)
+Row 24: UPDATED - 'Hamisi Kitumbua' (record id 550)
+Row 25: UPDATED - 'Mose Konga' (record id 550)
+Row 26: UPDATED - 'Eliud Makanga' (record id 550)
+Row 27: UPDATED - 'Mercy Masika' (record id 550)
+Row 28: UPDATED - 'Hamisi Masudi' (record id 550)
+Row 29: UPDATED - 'Julita Mbula' (record id 550)
+Row 30: UPDATED - 'Zablon Mbunzi' (record id 550)
+Row 31: UPDATED - 'Elizabeth Mjeni' (record id 550)
+Row 32: UPDATED - 'Samson Moses' (record id 550)
+Row 33: UPDATED - 'Halima Mtinda' (record id 550)
+Row 34: UPDATED - 'Muli Mtua' (record id 550)
+Row 35: UPDATED - 'Dzadze Mudzomba' (record id 550)
+Row 36: UPDATED - 'Caroline Mueke' (record id 550)
+Row 37: UPDATED - 'Elizabeth Munga' (record id 550)
+Row 38: UPDATED - 'Betty Mutheu' (record id 550)
+Row 39: UPDATED - 'Miriam Mutheu' (record id 550)
+Row 40: UPDATED - 'Zuma Mwadiga' (record id 550)
+Row 41: UPDATED - 'Henry Mwanyika' (record id 550)
+Row 42: UPDATED - 'Immaculate Mwero' (record id 550)
+Row 43: UPDATED - 'Mary Mwikali' (record id 550)
+Row 44: UPDATED - 'Daniel Mzungu' (record id 550)
+Row 45: UPDATED - 'Priscilla Mzungu' (record id 550)
+Row 46: UPDATED - 'Daniel Nasson' (record id 550)
+Row 47: UPDATED - 'Mohammed Ndoro' (record id 550)
+Row 48: UPDATED - 'Esther Ngome' (record id 550)
+Row 49: UPDATED - 'Annastacia Ngui' (record id 550)
+Row 50: UPDATED - 'Margaret Paul' (record id 550)
+Row 51: UPDATED - 'Mueni Paul' (record id 550)
+Row 52: UPDATED - 'Samuel Stella' (record id 550)
+Row 53: UPDATED - 'Enoshi Tsimba' (record id 550)
+Row 54: UPDATED - 'Rasoa Tsimba' (record id 550)
+Row 55: UPDATED - 'Ismail Tsuma' (record id 550)
+Row 56: UPDATED - 'Polina Tsuma' (record id 550)
+Row 57: UPDATED - 'Samuel Tsuma' (record id 550)
+Row 58: UPDATED - 'Grace Wambua' (record id 550)
+Row 59: UPDATED - 'Paul Wambua' (record id 550)
+Row 60: UPDATED - 'Collins Wanza' (record id 550)
+RESULT: Upload complete — 0 new record(s) created, 59 mark(s) updated.
+Total students processed: 59
+Inserted: 0
+Updated: 59
+Skipped: 0
+Errors: 0
+
+========================================
+2026-08-26 03:22:57 - UPLOAD STARTED
+Total data rows read from file: 59
+Subject columns detected: math
+Row 2: UPDATED - 'Saidi Abdalla' (record id 550)
+Row 3: UPDATED - 'Mulei Ali' (record id 550)
+Row 4: UPDATED - 'Nadzuwa Ali' (record id 550)
+Row 5: UPDATED - 'Nasra Ali' (record id 550)
+Row 6: UPDATED - 'Binti Bakari' (record id 550)
+Row 7: UPDATED - 'Sila Chaga' (record id 550)
+Row 8: UPDATED - 'Loice Chaka' (record id 550)
+Row 9: UPDATED - 'Chizigwa Chimega' (record id 550)
+Row 10: UPDATED - 'Mathew Dablon' (record id 550)
+Row 11: UPDATED - 'Evans Duga' (record id 550)
+Row 12: UPDATED - 'Saumu Dzimwenga' (record id 550)
+Row 13: UPDATED - 'Mwanalima Dzine' (record id 550)
+Row 14: UPDATED - 'Faith Fatuma' (record id 550)
+Row 15: UPDATED - 'Gloria Festus' (record id 550)
+Row 16: UPDATED - 'Habasi Hamisi' (record id 550)
+Row 17: UPDATED - 'Umazi Hassan' (record id 550)
+Row 18: UPDATED - 'Malkia Juma' (record id 550)
+Row 19: UPDATED - 'Mohammed Juma' (record id 550)
+Row 20: UPDATED - 'Daniel Kadzingo' (record id 550)
+Row 21: UPDATED - 'Bahati Karisa' (record id 550)
+Row 22: UPDATED - 'Stephen Kazungu' (record id 550)
+Row 23: UPDATED - 'James Kilonzo' (record id 550)
+Row 24: UPDATED - 'Hamisi Kitumbua' (record id 550)
+Row 25: UPDATED - 'Mose Konga' (record id 550)
+Row 26: UPDATED - 'Eliud Makanga' (record id 550)
+Row 27: UPDATED - 'Mercy Masika' (record id 550)
+Row 28: UPDATED - 'Hamisi Masudi' (record id 550)
+Row 29: UPDATED - 'Julita Mbula' (record id 550)
+Row 30: UPDATED - 'Zablon Mbunzi' (record id 550)
+Row 31: UPDATED - 'Elizabeth Mjeni' (record id 550)
+Row 32: UPDATED - 'Samson Moses' (record id 550)
+Row 33: UPDATED - 'Halima Mtinda' (record id 550)
+Row 34: UPDATED - 'Muli Mtua' (record id 550)
+Row 35: UPDATED - 'Dzadze Mudzomba' (record id 550)
+Row 36: UPDATED - 'Caroline Mueke' (record id 550)
+Row 37: UPDATED - 'Elizabeth Munga' (record id 550)
+Row 38: UPDATED - 'Betty Mutheu' (record id 550)
+Row 39: UPDATED - 'Miriam Mutheu' (record id 550)
+Row 40: UPDATED - 'Zuma Mwadiga' (record id 550)
+Row 41: UPDATED - 'Henry Mwanyika' (record id 550)
+Row 42: UPDATED - 'Immaculate Mwero' (record id 550)
+Row 43: UPDATED - 'Mary Mwikali' (record id 550)
+Row 44: UPDATED - 'Daniel Mzungu' (record id 550)
+Row 45: UPDATED - 'Priscilla Mzungu' (record id 550)
+Row 46: UPDATED - 'Daniel Nasson' (record id 550)
+Row 47: UPDATED - 'Mohammed Ndoro' (record id 550)
+Row 48: UPDATED - 'Esther Ngome' (record id 550)
+Row 49: UPDATED - 'Annastacia Ngui' (record id 550)
+Row 50: UPDATED - 'Margaret Paul' (record id 550)
+Row 51: UPDATED - 'Mueni Paul' (record id 550)
+Row 52: UPDATED - 'Samuel Stella' (record id 550)
+Row 53: UPDATED - 'Enoshi Tsimba' (record id 550)
+Row 54: UPDATED - 'Rasoa Tsimba' (record id 550)
+Row 55: UPDATED - 'Ismail Tsuma' (record id 550)
+Row 56: UPDATED - 'Polina Tsuma' (record id 550)
+Row 57: UPDATED - 'Samuel Tsuma' (record id 550)
+Row 58: UPDATED - 'Grace Wambua' (record id 550)
+Row 59: UPDATED - 'Paul Wambua' (record id 550)
+Row 60: UPDATED - 'Collins Wanza' (record id 550)
+RESULT: Upload complete — 0 new record(s) created, 59 mark(s) updated.
+Total students processed: 59
+Inserted: 0
+Updated: 59
+Skipped: 0
+Errors: 0
+
+========================================
+2026-08-26 04:20:31 - UPLOAD STARTED
+Total data rows read from file: 59
+Subject columns detected: math
+Row 2: INSERTED - 'Saidi Abdalla' (Assesment )
+Row 3: UPDATED - 'Mulei Ali' (record id 551)
+Row 4: UPDATED - 'Nadzuwa Ali' (record id 551)
+Row 5: UPDATED - 'Nasra Ali' (record id 551)
+Row 6: UPDATED - 'Binti Bakari' (record id 551)
+Row 7: UPDATED - 'Sila Chaga' (record id 551)
+Row 8: UPDATED - 'Loice Chaka' (record id 551)
+Row 9: UPDATED - 'Chizigwa Chimega' (record id 551)
+Row 10: UPDATED - 'Mathew Dablon' (record id 551)
+Row 11: UPDATED - 'Evans Duga' (record id 551)
+Row 12: UPDATED - 'Saumu Dzimwenga' (record id 551)
+Row 13: UPDATED - 'Mwanalima Dzine' (record id 551)
+Row 14: UPDATED - 'Faith Fatuma' (record id 551)
+Row 15: UPDATED - 'Gloria Festus' (record id 551)
+Row 16: UPDATED - 'Habasi Hamisi' (record id 551)
+Row 17: UPDATED - 'Umazi Hassan' (record id 551)
+Row 18: UPDATED - 'Malkia Juma' (record id 551)
+Row 19: UPDATED - 'Mohammed Juma' (record id 551)
+Row 20: UPDATED - 'Daniel Kadzingo' (record id 551)
+Row 21: UPDATED - 'Bahati Karisa' (record id 551)
+Row 22: UPDATED - 'Stephen Kazungu' (record id 551)
+Row 23: UPDATED - 'James Kilonzo' (record id 551)
+Row 24: UPDATED - 'Hamisi Kitumbua' (record id 551)
+Row 25: UPDATED - 'Mose Konga' (record id 551)
+Row 26: UPDATED - 'Eliud Makanga' (record id 551)
+Row 27: UPDATED - 'Mercy Masika' (record id 551)
+Row 28: UPDATED - 'Hamisi Masudi' (record id 551)
+Row 29: UPDATED - 'Julita Mbula' (record id 551)
+Row 30: UPDATED - 'Zablon Mbunzi' (record id 551)
+Row 31: UPDATED - 'Elizabeth Mjeni' (record id 551)
+Row 32: UPDATED - 'Samson Moses' (record id 551)
+Row 33: UPDATED - 'Halima Mtinda' (record id 551)
+Row 34: UPDATED - 'Muli Mtua' (record id 551)
+Row 35: UPDATED - 'Dzadze Mudzomba' (record id 551)
+Row 36: UPDATED - 'Caroline Mueke' (record id 551)
+Row 37: UPDATED - 'Elizabeth Munga' (record id 551)
+Row 38: UPDATED - 'Betty Mutheu' (record id 551)
+Row 39: UPDATED - 'Miriam Mutheu' (record id 551)
+Row 40: UPDATED - 'Zuma Mwadiga' (record id 551)
+Row 41: UPDATED - 'Henry Mwanyika' (record id 551)
+Row 42: UPDATED - 'Immaculate Mwero' (record id 551)
+Row 43: UPDATED - 'Mary Mwikali' (record id 551)
+Row 44: UPDATED - 'Daniel Mzungu' (record id 551)
+Row 45: UPDATED - 'Priscilla Mzungu' (record id 551)
+Row 46: UPDATED - 'Daniel Nasson' (record id 551)
+Row 47: UPDATED - 'Mohammed Ndoro' (record id 551)
+Row 48: UPDATED - 'Esther Ngome' (record id 551)
+Row 49: UPDATED - 'Annastacia Ngui' (record id 551)
+Row 50: UPDATED - 'Margaret Paul' (record id 551)
+Row 51: UPDATED - 'Mueni Paul' (record id 551)
+Row 52: UPDATED - 'Samuel Stella' (record id 551)
+Row 53: UPDATED - 'Enoshi Tsimba' (record id 551)
+Row 54: UPDATED - 'Rasoa Tsimba' (record id 551)
+Row 55: UPDATED - 'Ismail Tsuma' (record id 551)
+Row 56: UPDATED - 'Polina Tsuma' (record id 551)
+Row 57: UPDATED - 'Samuel Tsuma' (record id 551)
+Row 58: UPDATED - 'Grace Wambua' (record id 551)
+Row 59: UPDATED - 'Paul Wambua' (record id 551)
+Row 60: UPDATED - 'Collins Wanza' (record id 551)
+RESULT: Upload complete — 1 new record(s) created, 58 mark(s) updated.
+Total students processed: 59
+Inserted: 1
+Updated: 58
+Skipped: 0
+Errors: 0
+
+========================================
+2026-08-26 04:29:29 - UPLOAD STARTED
+Total data rows read from file: 59
+Subject columns detected: math
+Existing exam2 records found for grade=6 term='Term 1' year=2026 exam_type=endterm: 1
+Row 2: INSERTED - 'Saidi Abdalla' (student_id 294)
+Row 3: INSERTED - 'Mulei Ali' (student_id 298)
+Row 4: INSERTED - 'Nadzuwa Ali' (student_id 311)
+Row 5: INSERTED - 'Nasra Ali' (student_id 305)
+Row 6: INSERTED - 'Binti Bakari' (student_id 319)
+Row 7: INSERTED - 'Sila Chaga' (student_id 302)
+Row 8: INSERTED - 'Loice Chaka' (student_id 342)
+Row 9: INSERTED - 'Chizigwa Chimega' (student_id 307)
+Row 10: INSERTED - 'Mathew Dablon' (student_id 301)
+Row 11: INSERTED - 'Evans Duga' (student_id 321)
+Row 12: INSERTED - 'Saumu Dzimwenga' (student_id 325)
+Row 13: INSERTED - 'Mwanalima Dzine' (student_id 299)
+Row 14: INSERTED - 'Faith Fatuma' (student_id 297)
+Row 15: INSERTED - 'Gloria Festus' (student_id 320)
+Row 16: INSERTED - 'Habasi Hamisi' (student_id 315)
+Row 17: INSERTED - 'Umazi Hassan' (student_id 340)
+Row 18: INSERTED - 'Malkia Juma' (student_id 330)
+Row 19: INSERTED - 'Mohammed Juma' (student_id 292)
+Row 20: INSERTED - 'Daniel Kadzingo' (student_id 306)
+Row 21: INSERTED - 'Bahati Karisa' (student_id 333)
+Row 22: INSERTED - 'Stephen Kazungu' (student_id 338)
+Row 23: INSERTED - 'James Kilonzo' (student_id 332)
+Row 24: INSERTED - 'Hamisi Kitumbua' (student_id 289)
+Row 25: INSERTED - 'Mose Konga' (student_id 290)
+Row 26: INSERTED - 'Eliud Makanga' (student_id 296)
+Row 27: INSERTED - 'Mercy Masika' (student_id 313)
+Row 28: INSERTED - 'Hamisi Masudi' (student_id 310)
+Row 29: INSERTED - 'Julita Mbula' (student_id 291)
+Row 30: INSERTED - 'Zablon Mbunzi' (student_id 329)
+Row 31: INSERTED - 'Elizabeth Mjeni' (student_id 317)
+Row 32: INSERTED - 'Samson Moses' (student_id 284)
+Row 33: INSERTED - 'Halima Mtinda' (student_id 288)
+Row 34: INSERTED - 'Muli Mtua' (student_id 337)
+Row 35: INSERTED - 'Dzadze Mudzomba' (student_id 327)
+Row 36: INSERTED - 'Caroline Mueke' (student_id 286)
+Row 37: INSERTED - 'Elizabeth Munga' (student_id 314)
+Row 38: INSERTED - 'Betty Mutheu' (student_id 308)
+Row 39: INSERTED - 'Miriam Mutheu' (student_id 309)
+Row 40: INSERTED - 'Zuma Mwadiga' (student_id 339)
+Row 41: INSERTED - 'Henry Mwanyika' (student_id 293)
+Row 42: INSERTED - 'Immaculate Mwero' (student_id 328)
+Row 43: INSERTED - 'Mary Mwikali' (student_id 295)
+Row 44: INSERTED - 'Daniel Mzungu' (student_id 335)
+Row 45: INSERTED - 'Priscilla Mzungu' (student_id 336)
+Row 46: INSERTED - 'Daniel Nasson' (student_id 285)
+Row 47: INSERTED - 'Mohammed Ndoro' (student_id 326)
+Row 48: INSERTED - 'Esther Ngome' (student_id 324)
+Row 49: INSERTED - 'Annastacia Ngui' (student_id 300)
+Row 50: INSERTED - 'Margaret Paul' (student_id 304)
+Row 51: INSERTED - 'Mueni Paul' (student_id 331)
+Row 52: INSERTED - 'Samuel Stella' (student_id 322)
+Row 53: INSERTED - 'Enoshi Tsimba' (student_id 312)
+Row 54: INSERTED - 'Rasoa Tsimba' (student_id 323)
+Row 55: INSERTED - 'Ismail Tsuma' (student_id 316)
+Row 56: INSERTED - 'Polina Tsuma' (student_id 318)
+Row 57: INSERTED - 'Samuel Tsuma' (student_id 341)
+Row 58: INSERTED - 'Grace Wambua' (student_id 303)
+Row 59: INSERTED - 'Paul Wambua' (student_id 287)
+Row 60: INSERTED - 'Collins Wanza' (student_id 334)
+RESULT: Upload complete — 59 new record(s) created, 0 mark(s) updated.
+Total students processed: 59
+Inserted: 59
+Updated: 0
+Skipped: 0
+Errors: 0
+
+========================================
+2026-08-27 01:33:58 - UPLOAD STARTED
+Total data rows read from file: 62
+
+========================================
+2026-08-27 01:37:23 - UPLOAD STARTED
+Total data rows read from file: 61
+
+========================================
+2026-08-27 01:38:07 - UPLOAD STARTED
+Total data rows read from file: 61
+
+========================================
+2026-08-27 01:45:48 - UPLOAD STARTED
+Total data rows read from file: 62
+
+========================================
+2026-08-27 01:52:08 - UPLOAD STARTED
+Total data rows read from file: 62
+Subject columns detected: ca
+Existing exam2 records found for grade=5 term='Term 1' year=2026 exam_type=endterm: 0
+Row 2: INSERTED - 'Salim Abdulraheem' (student_id 517)
+Row 3: INSERTED - 'Mariana Boniface' (student_id 513)
+Row 4: INSERTED - 'Jovin Chakaya' (student_id 528)
+Row 5: INSERTED - 'Doris Dzitu' (student_id 469)
+Row 6: INSERTED - 'Sarah Hamolo' (student_id 516)
+Row 7: INSERTED - 'Mohammed Iddi' (student_id 487)
+Row 8: INSERTED - 'Clemence James' (student_id 478)
+Row 9: INSERTED - 'Hope John' (student_id 475)
+Row 10: INSERTED - 'David Joseph' (student_id 493)
+Row 11: INSERTED - 'Michael Juma' (student_id 507)
+Row 12: INSERTED - 'Salma Juma' (student_id 492)
+Row 13: INSERTED - 'Sharon Jumaa' (student_id 484)
+Row 14: INSERTED - 'Omar Kajimbi' (student_id 503)
+Row 15: INSERTED - 'Peter Kinyili' (student_id 515)
+Row 16: INSERTED - 'Saumu Kitumbua' (student_id 490)
+Row 17: INSERTED - 'Monica Konga' (student_id 473)
+Row 18: INSERTED - 'Jeremiah Kyalo' (student_id 470)
+Row 19: INSERTED - 'Elizabeth Leli' (student_id 486)
+Row 20: INSERTED - 'Karim Lwambi' (student_id 482)
+Row 21: INSERTED - 'Sarah Makau' (student_id 474)
+Row 22: INSERTED - 'Laban Manganga' (student_id 499)
+Row 23: INSERTED - 'Lazarus Mbeyu' (student_id 497)
+Row 24: INSERTED - 'Josephat Mbunzi' (student_id 483)
+Row 25: INSERTED - 'Kwekwe Mdzombsa' (student_id 506)
+Row 26: INSERTED - 'Lydia Mtie' (student_id 476)
+Row 27: INSERTED - 'Mariam Mtinda' (student_id 485)
+Row 28: INSERTED - 'Abel Mulei' (student_id 509)
+Row 29: INSERTED - 'Brian Muteti' (student_id 481)
+Row 30: INSERTED - 'Amon Mutinda' (student_id 500)
+Row 31: INSERTED - 'Rose Mutinda' (student_id 480)
+Row 32: INSERTED - 'Jeremiah Mutua' (student_id 496)
+Row 33: INSERTED - 'Jonathan Mutuku' (student_id 495)
+Row 34: INSERTED - 'Ashline Mutunga' (student_id 508)
+Row 35: INSERTED - 'Benard Mutunga' (student_id 477)
+Row 36: INSERTED - 'Holiness Mutungwa' (student_id 488)
+Row 37: INSERTED - 'Chizi Mwanyika' (student_id 510)
+Row 38: INSERTED - 'Mwamumbo Mwanyika' (student_id 511)
+Row 39: INSERTED - 'Mwanasha Mwasiku' (student_id 502)
+Row 40: INSERTED - 'Doris Mwikali' (student_id 512)
+Row 41: INSERTED - 'Zhuleka Mwingo' (student_id 527)
+Row 42: INSERTED - 'Caren Nasib' (student_id 505)
+Row 43: INSERTED - 'Mansoor Ndegwa' (student_id 514)
+Row 44: INSERTED - 'Dorcus Ndeti' (student_id 529)
+Row 45: INSERTED - 'Elijah Ndeti' (student_id 521)
+Row 46: INSERTED - 'Samuel Ndurya' (student_id 491)
+Row 47: INSERTED - 'Kalama Njoroge' (student_id 504)
+Row 48: INSERTED - 'Happy Nthuli' (student_id 479)
+Row 49: INSERTED - 'Abdul Nyawa' (student_id 520)
+Row 50: INSERTED - 'Radhia Nyiro' (student_id 471)
+Row 51: INSERTED - 'Angel Nzilani' (student_id 494)
+Row 52: INSERTED - 'Simon Paul' (student_id 523)
+Row 53: INSERTED - 'Holiness Pendo' (student_id 489)
+Row 54: INSERTED - 'Clinton Pius' (student_id 472)
+Row 55: INSERTED - 'Jacob Rai' (student_id 519)
+Row 56: INSERTED - 'Ben Salim' (student_id 524)
+Row 57: INSERTED - 'Jane Shiko' (student_id 526)
+Row 58: INSERTED - 'Bakari Suleiman' (student_id 522)
+Row 59: INSERTED - 'Matano Swaleh' (student_id 501)
+Row 60: INSERTED - 'Mkala Swaleh' (student_id 498)
+Row 61: INSERTED - 'Ian Wambua' (student_id 518)
+Row 62: INSERTED - 'Amos Yaa' (student_id 530)
+Row 63: INSERTED - 'Vyani Zuma' (student_id 525)
+RESULT: Upload complete — 62 new record(s) created, 0 mark(s) updated.
+Total students processed: 62
+Inserted: 62
+Updated: 0
+Skipped: 0
+Errors: 0
+
+========================================
+2026-08-27 01:58:14 - UPLOAD STARTED
+Total data rows read from file: 53
+Subject columns detected: ca
+Existing exam2 records found for grade=4 term='Term 2' year=2026 exam_type=endterm: 25
+Row 2: SKIPPED - 'Patason Ali' matched but no numeric marks found
+Row 3: UPDATE ran for 'Milton Baraka' (record id 426, affected_rows=1, subjects=ca)
+Row 4: SKIPPED - 'Abel Barua' matched but no numeric marks found
+Row 5: SKIPPED - 'Jackson Chaga' matched but no numeric marks found
+Row 6: SKIPPED - 'Naftal Chakaya' matched but no numeric marks found
+Row 7: SKIPPED - 'Abdul Charo' matched but no numeric marks found
+Row 8: SKIPPED - 'Kalama Chengo' matched but no numeric marks found
+Row 9: SKIPPED - 'Irine Evans' matched but no numeric marks found
+Row 10: SKIPPED - 'Sara Fronsia' matched but no numeric marks found
+Row 11: SKIPPED - 'Mwanajuma Hamisi' matched but no numeric marks found
+Row 12: UPDATE ran for 'Binti Hussein' (record id 488, affected_rows=1, subjects=ca)
+Row 13: SKIPPED - 'Faizan James' matched but no numeric marks found
+Row 14: SKIPPED - 'Precious Jongoo' matched but no numeric marks found
+Row 15: UPDATE ran for 'Saidi Juma' (record id 427, affected_rows=1, subjects=ca)
+Row 16: SKIPPED - 'Stephen Katana' matched but no numeric marks found
+Row 17: UPDATE ran for 'Stella Katsaka' (record id 431, affected_rows=1, subjects=ca)
+Row 18: SKIPPED - 'Angel Kendi' matched but no numeric marks found
+Row 19: SKIPPED - 'Joyce Kengo' matched but no numeric marks found
+Row 20: UPDATE ran for 'Saidi Mabwere' (record id 493, affected_rows=1, subjects=ca)
+Row 21: SKIPPED - 'Hamisi Mangale' matched but no numeric marks found
+Row 22: UPDATE ran for 'Daniel Masha' (record id 417, affected_rows=1, subjects=ca)
+Row 23: UPDATE ran for 'Samson Masha' (record id 429, affected_rows=1, subjects=ca)
+Row 24: UPDATE ran for 'Henry Mbethi' (record id 424, affected_rows=1, subjects=ca)
+Row 25: UPDATE ran for 'Adam Menza' (record id 414, affected_rows=1, subjects=ca)
+Row 26: SKIPPED - 'Idd Mjema' matched but no numeric marks found
+Row 27: UPDATE ran for 'Hasssan Mohammed' (record id 423, affected_rows=1, subjects=ca)
+Row 28: UPDATE ran for 'Saumu Mumbi' (record id 430, affected_rows=1, subjects=ca)
+Row 29: SKIPPED - 'Evaline Mutua' matched but no numeric marks found
+Row 30: UPDATE ran for 'David Muuo' (record id 418, affected_rows=1, subjects=ca)
+Row 31: SKIPPED - 'Evans Mwaega' matched but no numeric marks found
+Row 32: SKIPPED - 'Charles Mwanyika' matched but no numeric marks found
+Row 33: UPDATE ran for 'David Mwanzia' (record id 489, affected_rows=1, subjects=ca)
+Row 34: UPDATE ran for 'Salimu Mwareje' (record id 428, affected_rows=1, subjects=ca)
+Row 35: SKIPPED - 'Naomi Mwari' matched but no numeric marks found
+Row 36: SKIPPED - 'Mejumaa Mwatunje' matched but no numeric marks found
+Row 37: UPDATE ran for 'Ali Nassa' (record id 415, affected_rows=1, subjects=ca)
+Row 38: UPDATE ran for 'Elias Ndegwa' (record id 420, affected_rows=1, subjects=ca)
+Row 39: SKIPPED - 'Juma Ndegwa' matched but no numeric marks found
+Row 40: SKIPPED - 'Mwanamkuu Ndegwa' matched but no numeric marks found
+Row 41: UPDATE ran for 'Mwanamisi Ngao' (record id 490, affected_rows=1, subjects=ca)
+Row 42: SKIPPED - 'Aloo Nyae' matched but no numeric marks found
+Row 43: SKIPPED - 'Grace Nyamawi' matched but no numeric marks found
+Row 44: SKIPPED - 'Esther Nyamvula' matched but no numeric marks found
+Row 45: UPDATE ran for 'Grace Pendo' (record id 422, affected_rows=1, subjects=ca)
+Row 46: INSERTED - 'Grace Samuel' (student_id 650)
+Row 47: SKIPPED - 'Juma Shobo' matched but no numeric marks found
+Row 48: SKIPPED - 'Abigael Timothy' matched but no numeric marks found
+Row 49: UPDATE ran for 'Debora Tsuma' (record id 419, affected_rows=1, subjects=ca)
+Row 50: UPDATE ran for 'Jeremiah Tsuma' (record id 494, affected_rows=1, subjects=ca)
+Row 51: UPDATE ran for 'Rose Wakio' (record id 495, affected_rows=1, subjects=ca)
+Row 52: UPDATE ran for 'Blessing Wema' (record id 416, affected_rows=1, subjects=ca)
+Row 53: SKIPPED - 'Kalume Yongo' matched but no numeric marks found
+Row 54: UPDATE ran for 'Ngala Yongo' (record id 547, affected_rows=1, subjects=ca)
+RESULT: Upload complete — 1 new record(s) created, 23 mark(s) updated.
+Total students processed: 53
+Inserted: 1
+Updated: 23
+Skipped: 0
+Errors: 0
+
+========================================
+2026-08-27 01:59:03 - UPLOAD STARTED
+Total data rows read from file: 62
+Subject columns detected: ca
+Existing exam2 records found for grade=5 term='Term 2' year=2026 exam_type=endterm: 39
+Row 2: UPDATE ran for 'Salim Abdulraheem' (record id 405, affected_rows=1, subjects=ca)
+Row 3: SKIPPED - 'Mariana Boniface' matched but no numeric marks found
+Row 4: UPDATE ran for 'Jovin Chakaya' (record id 396, affected_rows=1, subjects=ca)
+Row 5: UPDATE ran for 'Doris Dzitu' (record id 388, affected_rows=1, subjects=ca)
+Row 6: SKIPPED - 'Sarah Hamolo' matched but no numeric marks found
+Row 7: SKIPPED - 'Mohammed Iddi' matched but no numeric marks found
+Row 8: UPDATE ran for 'Clemence James' (record id 386, affected_rows=1, subjects=ca)
+Row 9: SKIPPED - 'Hope John' matched but no numeric marks found
+Row 10: UPDATE ran for 'David Joseph' (record id 387, affected_rows=1, subjects=ca)
+Row 11: SKIPPED - 'Michael Juma' matched but no numeric marks found
+Row 12: SKIPPED - 'Salma Juma' matched but no numeric marks found
+Row 13: UPDATE ran for 'Sharon Jumaa' (record id 409, affected_rows=1, subjects=ca)
+Row 14: UPDATE ran for 'Omar Kajimbi' (record id 402, affected_rows=1, subjects=ca)
+Row 15: SKIPPED - 'Peter Kinyili' matched but no numeric marks found
+Row 16: UPDATE ran for 'Saumu Kitumbua' (record id 408, affected_rows=1, subjects=ca)
+Row 17: UPDATE ran for 'Monica Konga' (record id 487, affected_rows=1, subjects=ca)
+Row 18: UPDATE ran for 'Jeremiah Kyalo' (record id 491, affected_rows=1, subjects=ca)
+Row 19: UPDATE ran for 'Elizabeth Leli' (record id 390, affected_rows=1, subjects=ca)
+Row 20: UPDATE ran for 'Karim Lwambi' (record id 486, affected_rows=1, subjects=ca)
+Row 21: SKIPPED - 'Sarah Makau' matched but no numeric marks found
+Row 22: UPDATE ran for 'Laban Manganga' (record id 397, affected_rows=1, subjects=ca)
+Row 23: SKIPPED - 'Lazarus Mbeyu' matched but no numeric marks found
+Row 24: UPDATE ran for 'Josephat Mbunzi' (record id 395, affected_rows=1, subjects=ca)
+Row 25: SKIPPED - 'Kwekwe Mdzombsa' matched but no numeric marks found
+Row 26: SKIPPED - 'Lydia Mtie' matched but no numeric marks found
+Row 27: UPDATE ran for 'Mariam Mtinda' (record id 399, affected_rows=1, subjects=ca)
+Row 28: SKIPPED - 'Abel Mulei' matched but no numeric marks found
+Row 29: SKIPPED - 'Brian Muteti' matched but no numeric marks found
+Row 30: SKIPPED - 'Amon Mutinda' matched but no numeric marks found
+Row 31: UPDATE ran for 'Rose Mutinda' (record id 404, affected_rows=1, subjects=ca)
+Row 32: SKIPPED - 'Jeremiah Mutua' matched but no numeric marks found
+Row 33: SKIPPED - 'Jonathan Mutuku' matched but no numeric marks found
+Row 34: UPDATE ran for 'Ashline Mutunga' (record id 383, affected_rows=1, subjects=ca)
+Row 35: UPDATE ran for 'Benard Mutunga' (record id 385, affected_rows=1, subjects=ca)
+Row 36: UPDATE ran for 'Holiness Mutungwa' (record id 392, affected_rows=1, subjects=ca)
+Row 37: SKIPPED - 'Chizi Mwanyika' matched but no numeric marks found
+Row 38: SKIPPED - 'Mwamumbo Mwanyika' matched but no numeric marks found
+Row 39: UPDATE ran for 'Mwanasha Mwasiku' (record id 401, affected_rows=1, subjects=ca)
+Row 40: SKIPPED - 'Doris Mwikali' matched but no numeric marks found
+Row 41: UPDATE ran for 'Zhuleka Mwingo' (record id 411, affected_rows=1, subjects=ca)
+Row 42: UPDATE ran for 'Caren Nasib' (record id 483, affected_rows=1, subjects=ca)
+Row 43: UPDATE ran for 'Mansoor Ndegwa' (record id 398, affected_rows=1, subjects=ca)
+Row 44: UPDATE ran for 'Dorcus Ndeti' (record id 413, affected_rows=1, subjects=ca)
+Row 45: UPDATE ran for 'Elijah Ndeti' (record id 389, affected_rows=1, subjects=ca)
+Row 46: UPDATE ran for 'Samuel Ndurya' (record id 407, affected_rows=1, subjects=ca)
+Row 47: UPDATE ran for 'Kalama Njoroge' (record id 485, affected_rows=1, subjects=ca)
+Row 48: UPDATE ran for 'Happy Nthuli' (record id 391, affected_rows=1, subjects=ca)
+Row 49: UPDATE ran for 'Abdul Nyawa' (record id 381, affected_rows=1, subjects=ca)
+Row 50: UPDATE ran for 'Radhia Nyiro' (record id 403, affected_rows=1, subjects=ca)
+Row 51: UPDATE ran for 'Angel Nzilani' (record id 382, affected_rows=1, subjects=ca)
+Row 52: UPDATE ran for 'Simon Paul' (record id 410, affected_rows=1, subjects=ca)
+Row 53: SKIPPED - 'Holiness Pendo' matched but no numeric marks found
+Row 54: UPDATE ran for 'Clinton Pius' (record id 484, affected_rows=1, subjects=ca)
+Row 55: UPDATE ran for 'Jacob Rai' (record id 394, affected_rows=1, subjects=ca)
+Row 56: SKIPPED - 'Ben Salim' matched but no numeric marks found
+Row 57: SKIPPED - 'Jane Shiko' matched but no numeric marks found
+Row 58: UPDATE ran for 'Bakari Suleiman' (record id 384, affected_rows=1, subjects=ca)
+Row 59: SKIPPED - 'Matano Swaleh' matched but no numeric marks found
+Row 60: UPDATE ran for 'Mkala Swaleh' (record id 400, affected_rows=1, subjects=ca)
+Row 61: UPDATE ran for 'Ian Wambua' (record id 393, affected_rows=1, subjects=ca)
+Row 62: UPDATE ran for 'Amos Yaa' (record id 412, affected_rows=1, subjects=ca)
+Row 63: SKIPPED - 'Vyani Zuma' matched but no numeric marks found
+RESULT: Upload complete — 0 new record(s) created, 38 mark(s) updated.
+Total students processed: 62
+Inserted: 0
+Updated: 38
+Skipped: 0
+Errors: 0
+
+========================================
+2026-08-27 01:59:58 - UPLOAD STARTED
+Total data rows read from file: 59
+Subject columns detected: scie, ca
+Existing exam2 records found for grade=6 term='Term 2' year=2026 exam_type=midterm: 0
+Row 2: SKIPPED - 'Saidi Abdalla' matched but no numeric marks found
+Row 3: SKIPPED - 'Mulei Ali' matched but no numeric marks found
+Row 4: SKIPPED - 'Nadzuwa Ali' matched but no numeric marks found
+Row 5: INSERTED - 'Nasra Ali' (student_id 305)
+Row 6: SKIPPED - 'Binti Bakari' matched but no numeric marks found
+Row 7: SKIPPED - 'Sila Chaga' matched but no numeric marks found
+Row 8: SKIPPED - 'Loice Chaka' matched but no numeric marks found
+Row 9: INSERTED - 'Chizigwa Chimega' (student_id 307)
+Row 10: INSERTED - 'Mathew Dablon' (student_id 301)
+Row 11: INSERTED - 'Evans Duga' (student_id 321)
+Row 12: INSERTED - 'Saumu Dzimwenga' (student_id 325)
+Row 13: INSERTED - 'Mwanalima Dzine' (student_id 299)
+Row 14: SKIPPED - 'Faith Fatuma' matched but no numeric marks found
+Row 15: INSERTED - 'Gloria Festus' (student_id 320)
+Row 16: SKIPPED - 'Habasi Hamisi' matched but no numeric marks found
+Row 17: SKIPPED - 'Umazi Hassan' matched but no numeric marks found
+Row 18: INSERTED - 'Malkia Juma' (student_id 330)
+Row 19: SKIPPED - 'Mohammed Juma' matched but no numeric marks found
+Row 20: INSERTED - 'Daniel Kadzingo' (student_id 306)
+Row 21: INSERTED - 'Bahati Karisa' (student_id 333)
+Row 22: INSERTED - 'Stephen Kazungu' (student_id 338)
+Row 23: INSERTED - 'James Kilonzo' (student_id 332)
+Row 24: INSERTED - 'Hamisi Kitumbua' (student_id 289)
+Row 25: INSERTED - 'Mose Konga' (student_id 290)
+Row 26: INSERTED - 'Eliud Makanga' (student_id 296)
+Row 27: INSERTED - 'Mercy Masika' (student_id 313)
+Row 28: SKIPPED - 'Hamisi Masudi' matched but no numeric marks found
+Row 29: SKIPPED - 'Julita Mbula' matched but no numeric marks found
+Row 30: INSERTED - 'Zablon Mbunzi' (student_id 329)
+Row 31: INSERTED - 'Elizabeth Mjeni' (student_id 317)
+Row 32: INSERTED - 'Samson Moses' (student_id 284)
+Row 33: INSERTED - 'Halima Mtinda' (student_id 288)
+Row 34: SKIPPED - 'Muli Mtua' matched but no numeric marks found
+Row 35: INSERTED - 'Dzadze Mudzomba' (student_id 327)
+Row 36: SKIPPED - 'Caroline Mueke' matched but no numeric marks found
+Row 37: SKIPPED - 'Elizabeth Munga' matched but no numeric marks found
+Row 38: INSERTED - 'Betty Mutheu' (student_id 308)
+Row 39: INSERTED - 'Miriam Mutheu' (student_id 309)
+Row 40: INSERTED - 'Zuma Mwadiga' (student_id 339)
+Row 41: SKIPPED - 'Henry Mwanyika' matched but no numeric marks found
+Row 42: INSERTED - 'Immaculate Mwero' (student_id 328)
+Row 43: SKIPPED - 'Mary Mwikali' matched but no numeric marks found
+Row 44: INSERTED - 'Daniel Mzungu' (student_id 335)
+Row 45: INSERTED - 'Priscilla Mzungu' (student_id 336)
+Row 46: INSERTED - 'Daniel Nasson' (student_id 285)
+Row 47: INSERTED - 'Mohammed Ndoro' (student_id 326)
+Row 48: SKIPPED - 'Esther Ngome' matched but no numeric marks found
+Row 49: INSERTED - 'Annastacia Ngui' (student_id 300)
+Row 50: SKIPPED - 'Margaret Paul' matched but no numeric marks found
+Row 51: SKIPPED - 'Mueni Paul' matched but no numeric marks found
+Row 52: SKIPPED - 'Samuel Stella' matched but no numeric marks found
+Row 53: SKIPPED - 'Enoshi Tsimba' matched but no numeric marks found
+Row 54: SKIPPED - 'Rasoa Tsimba' matched but no numeric marks found
+Row 55: SKIPPED - 'Ismail Tsuma' matched but no numeric marks found
+Row 56: INSERTED - 'Polina Tsuma' (student_id 318)
+Row 57: INSERTED - 'Samuel Tsuma' (student_id 341)
+Row 58: SKIPPED - 'Grace Wambua' matched but no numeric marks found
+Row 59: INSERTED - 'Paul Wambua' (student_id 287)
+Row 60: INSERTED - 'Collins Wanza' (student_id 334)
+RESULT: Upload complete — 34 new record(s) created, 0 mark(s) updated.
+Total students processed: 59
+Inserted: 34
+Updated: 0
+Skipped: 0
+Errors: 0
+
+========================================
+2026-08-27 02:01:56 - UPLOAD STARTED
+Total data rows read from file: 59
+Subject columns detected: scie, ca
+Existing exam2 records found for grade=6 term='Term 2' year=2026 exam_type=endterm: 35
+Row 2: SKIPPED - 'Saidi Abdalla' matched but no numeric marks found
+Row 3: SKIPPED - 'Mulei Ali' matched but no numeric marks found
+Row 4: SKIPPED - 'Nadzuwa Ali' matched but no numeric marks found
+Row 5: UPDATE ran for 'Nasra Ali' (record id 451, affected_rows=1, subjects=scie,ca)
+Row 6: SKIPPED - 'Binti Bakari' matched but no numeric marks found
+Row 7: SKIPPED - 'Sila Chaga' matched but no numeric marks found
+Row 8: SKIPPED - 'Loice Chaka' matched but no numeric marks found
+Row 9: UPDATE ran for 'Chizigwa Chimega' (record id 434, affected_rows=1, subjects=scie,ca)
+Row 10: UPDATE ran for 'Mathew Dablon' (record id 478, affected_rows=1, subjects=scie,ca)
+Row 11: UPDATE ran for 'Evans Duga' (record id 440, affected_rows=1, subjects=scie,ca)
+Row 12: UPDATE ran for 'Saumu Dzimwenga' (record id 455, affected_rows=1, subjects=scie,ca)
+Row 13: UPDATE ran for 'Mwanalima Dzine' (record id 450, affected_rows=1, subjects=scie,ca)
+Row 14: SKIPPED - 'Faith Fatuma' matched but no numeric marks found
+Row 15: UPDATE ran for 'Gloria Festus' (record id 441, affected_rows=1, subjects=scie,ca)
+Row 16: SKIPPED - 'Habasi Hamisi' matched but no numeric marks found
+Row 17: SKIPPED - 'Umazi Hassan' matched but no numeric marks found
+Row 18: UPDATE ran for 'Malkia Juma' (record id 446, affected_rows=1, subjects=scie,ca)
+Row 19: SKIPPED - 'Mohammed Juma' matched but no numeric marks found
+Row 20: UPDATE ran for 'Daniel Kadzingo' (record id 436, affected_rows=1, subjects=scie,ca)
+Row 21: UPDATE ran for 'Bahati Karisa' (record id 433, affected_rows=1, subjects=scie,ca)
+Row 22: UPDATE ran for 'Stephen Kazungu' (record id 482, affected_rows=1, subjects=scie,ca)
+Row 23: UPDATE ran for 'James Kilonzo' (record id 445, affected_rows=1, subjects=scie,ca)
+Row 24: UPDATE ran for 'Hamisi Kitumbua' (record id 443, affected_rows=1, subjects=scie,ca)
+Row 25: UPDATE ran for 'Mose Konga' (record id 449, affected_rows=1, subjects=scie,ca)
+Row 26: UPDATE ran for 'Eliud Makanga' (record id 477, affected_rows=1, subjects=scie,ca)
+Row 27: UPDATE ran for 'Mercy Masika' (record id 447, affected_rows=1, subjects=scie,ca)
+Row 28: SKIPPED - 'Hamisi Masudi' matched but no numeric marks found
+Row 29: SKIPPED - 'Julita Mbula' matched but no numeric marks found
+Row 30: UPDATE ran for 'Zablon Mbunzi' (record id 456, affected_rows=1, subjects=scie,ca)
+Row 31: UPDATE ran for 'Elizabeth Mjeni' (record id 439, affected_rows=1, subjects=scie,ca)
+Row 32: UPDATE ran for 'Samson Moses' (record id 454, affected_rows=1, subjects=scie,ca)
+Row 33: UPDATE ran for 'Halima Mtinda' (record id 442, affected_rows=1, subjects=scie,ca)
+Row 34: SKIPPED - 'Muli Mtua' matched but no numeric marks found
+Row 35: UPDATE ran for 'Dzadze Mudzomba' (record id 438, affected_rows=1, subjects=scie,ca)
+Row 36: SKIPPED - 'Caroline Mueke' matched but no numeric marks found
+Row 37: SKIPPED - 'Elizabeth Munga' matched but no numeric marks found
+Row 38: UPDATE ran for 'Betty Mutheu' (record id 475, affected_rows=1, subjects=scie,ca)
+Row 39: UPDATE ran for 'Miriam Mutheu' (record id 448, affected_rows=1, subjects=scie,ca)
+Row 40: UPDATE ran for 'Zuma Mwadiga' (record id 457, affected_rows=1, subjects=scie,ca)
+Row 41: SKIPPED - 'Henry Mwanyika' matched but no numeric marks found
+Row 42: UPDATE ran for 'Immaculate Mwero' (record id 444, affected_rows=1, subjects=scie,ca)
+Row 43: SKIPPED - 'Mary Mwikali' matched but no numeric marks found
+Row 44: UPDATE ran for 'Daniel Mzungu' (record id 437, affected_rows=1, subjects=scie,ca)
+Row 45: UPDATE ran for 'Priscilla Mzungu' (record id 453, affected_rows=1, subjects=scie,ca)
+Row 46: UPDATE ran for 'Daniel Nasson' (record id 476, affected_rows=1, subjects=scie,ca)
+Row 47: UPDATE ran for 'Mohammed Ndoro' (record id 479, affected_rows=1, subjects=scie,ca)
+Row 48: SKIPPED - 'Esther Ngome' matched but no numeric marks found
+Row 49: UPDATE ran for 'Annastacia Ngui' (record id 432, affected_rows=1, subjects=scie,ca)
+Row 50: SKIPPED - 'Margaret Paul' matched but no numeric marks found
+Row 51: SKIPPED - 'Mueni Paul' matched but no numeric marks found
+Row 52: SKIPPED - 'Samuel Stella' matched but no numeric marks found
+Row 53: SKIPPED - 'Enoshi Tsimba' matched but no numeric marks found
+Row 54: SKIPPED - 'Rasoa Tsimba' matched but no numeric marks found
+Row 55: SKIPPED - 'Ismail Tsuma' matched but no numeric marks found
+Row 56: UPDATE ran for 'Polina Tsuma' (record id 452, affected_rows=1, subjects=scie,ca)
+Row 57: UPDATE ran for 'Samuel Tsuma' (record id 481, affected_rows=1, subjects=scie,ca)
+Row 58: SKIPPED - 'Grace Wambua' matched but no numeric marks found
+Row 59: UPDATE ran for 'Paul Wambua' (record id 480, affected_rows=1, subjects=scie,ca)
+Row 60: UPDATE ran for 'Collins Wanza' (record id 435, affected_rows=1, subjects=scie,ca)
+RESULT: Upload complete — 0 new record(s) created, 34 mark(s) updated.
+Total students processed: 59
+Inserted: 0
+Updated: 34
+Skipped: 0
+Errors: 0
+
+========================================
+2026-09-04 05:08:56 - UPLOAD STARTED
+Total data rows read from file: 64
+Subject columns detected: scie, ca, agri
+Existing exam2 records found for grade=6 term='Term 3' year=2026 exam_type=opener: 59
+Row 2: UPDATE ran for 'Annastacia Ngui' (record id 715, affected_rows=1, subjects=scie,ca,agri)
+Row 3: UPDATE ran for 'Bahati Karisa' (record id 716, affected_rows=1, subjects=scie,ca,agri)
+Row 4: UPDATE ran for 'Betty Mutheu' (record id 717, affected_rows=1, subjects=scie,ca,agri)
+Row 5: UPDATE ran for 'Binti Bakari' (record id 718, affected_rows=1, subjects=scie,ca,agri)
+Row 6: UPDATE ran for 'Caroline Mueke' (record id 719, affected_rows=1, subjects=scie,ca,agri)
+Row 7: UPDATE ran for 'Chizigwa Chimega' (record id 765, affected_rows=1, subjects=scie,ca,agri)
+Row 8: UPDATE ran for 'Collins Wanza' (record id 720, affected_rows=1, subjects=scie,ca,agri)
+Row 9: UPDATE ran for 'Daniel Kadzingo' (record id 721, affected_rows=1, subjects=scie,ca,agri)
+Row 10: UPDATE ran for 'Daniel Mzungu' (record id 710, affected_rows=1, subjects=scie,ca,agri)
+Row 11: UPDATE ran for 'Daniel Nasson' (record id 722, affected_rows=1, subjects=scie,ca,agri)
+Row 12: UPDATE ran for 'Dorcus Onyango' (record id 760, affected_rows=1, subjects=scie,ca,agri)
+Row 13: UPDATE ran for 'Dzadze Mudzomba' (record id 723, affected_rows=1, subjects=scie,ca,agri)
+Row 14: UPDATE ran for 'Eliud Makanga' (record id 766, affected_rows=1, subjects=scie,ca,agri)
+Row 15: UPDATE ran for 'Elizabeth Mjeni' (record id 724, affected_rows=1, subjects=scie,ca,agri)
+Row 16: UPDATE ran for 'Elizabeth Munga' (record id 725, affected_rows=1, subjects=scie,ca,agri)
+Row 17: UPDATE ran for 'Enoshi Tsimba' (record id 726, affected_rows=1, subjects=scie,ca,agri)
+Row 18: UPDATE ran for 'Esther Ngome' (record id 727, affected_rows=1, subjects=scie,ca,agri)
+Row 19: UPDATE ran for 'Evans Duga' (record id 728, affected_rows=1, subjects=scie,ca,agri)
+Row 20: UPDATE ran for 'Faith Fatuma' (record id 729, affected_rows=1, subjects=scie,ca,agri)
+Row 21: UPDATE ran for 'Gloria Festus' (record id 730, affected_rows=1, subjects=scie,ca,agri)
+Row 22: UPDATE ran for 'Grace Wambua' (record id 731, affected_rows=1, subjects=scie,ca,agri)
+Row 23: UPDATE ran for 'Habasi Hamisi' (record id 732, affected_rows=1, subjects=scie,ca,agri)
+Row 24: UPDATE ran for 'Halima Mtinda' (record id 733, affected_rows=1, subjects=scie,ca,agri)
+Row 25: UPDATE ran for 'Hamisi Kitumbua' (record id 734, affected_rows=1, subjects=scie,ca,agri)
+Row 26: UPDATE ran for 'Hamisi Masudi' (record id 735, affected_rows=1, subjects=scie,ca,agri)
+Row 27: UPDATE ran for 'Henry Mwanyika' (record id 736, affected_rows=1, subjects=scie,ca,agri)
+Row 28: UPDATE ran for 'Immaculate Mwero' (record id 737, affected_rows=1, subjects=scie,ca,agri)
+Row 29: UPDATE ran for 'Ismail Tsuma' (record id 767, affected_rows=1, subjects=scie,ca,agri)
+Row 30: SKIPPED - 'James Kilonzo' matched but no numeric marks found
+Row 31: UPDATE ran for 'Julita Mbula' (record id 711, affected_rows=1, subjects=scie,ca,agri)
+Row 32: UPDATE ran for 'Loice Chaka' (record id 738, affected_rows=1, subjects=scie,ca,agri)
+Row 33: UPDATE ran for 'Malkia Juma' (record id 739, affected_rows=1, subjects=scie,ca,agri)
+Row 34: UPDATE ran for 'Margaret Paul' (record id 740, affected_rows=1, subjects=scie,ca,agri)
+Row 35: SKIPPED - 'Mary Mwikali' matched but no numeric marks found
+Row 36: UPDATE ran for 'Mathew Dablon' (record id 741, affected_rows=1, subjects=scie,ca,agri)
+Row 37: UPDATE ran for 'Mercy Masika' (record id 742, affected_rows=1, subjects=scie,ca,agri)
+Row 38: UPDATE ran for 'Miriam Mutheu' (record id 712, affected_rows=1, subjects=scie,ca,agri)
+Row 39: UPDATE ran for 'Mohammed Juma' (record id 743, affected_rows=1, subjects=scie,ca,agri)
+Row 40: UPDATE ran for 'Mohammed Ndoro' (record id 744, affected_rows=1, subjects=scie,ca,agri)
+Row 41: UPDATE ran for 'Mose Konga' (record id 745, affected_rows=1, subjects=scie,ca,agri)
+Row 42: UPDATE ran for 'Mueni Paul' (record id 746, affected_rows=1, subjects=scie,ca,agri)
+Row 43: UPDATE ran for 'Mulei Ali' (record id 747, affected_rows=1, subjects=scie,ca,agri)
+Row 44: UPDATE ran for 'Muli Mtua' (record id 748, affected_rows=1, subjects=scie,ca,agri)
+Row 45: UPDATE ran for 'Mwanajuma Hamisi' (record id 761, affected_rows=1, subjects=scie,ca,agri)
+Row 46: UPDATE ran for 'Mwanalima Dzine' (record id 749, affected_rows=1, subjects=scie,ca,agri)
+Row 47: UPDATE ran for 'Nadzuwa Ali' (record id 750, affected_rows=1, subjects=scie,ca,agri)
+Row 48: UPDATE ran for 'Nasra Ali' (record id 751, affected_rows=1, subjects=scie,ca,agri)
+Row 49: UPDATE ran for 'Patterson Mwahanje' (record id 764, affected_rows=1, subjects=scie,ca,agri)
+Row 50: UPDATE ran for 'Paul Wambua' (record id 713, affected_rows=1, subjects=scie,ca,agri)
+Row 51: UPDATE ran for 'Polina Tsuma' (record id 752, affected_rows=1, subjects=scie,ca,agri)
+Row 52: UPDATE ran for 'Priscilla Mzungu' (record id 753, affected_rows=1, subjects=scie,ca,agri)
+Row 53: UPDATE ran for 'Rasoa Tsimba' (record id 714, affected_rows=1, subjects=scie,ca,agri)
+Row 54: UPDATE ran for 'Ruwa Tsuma' (record id 762, affected_rows=1, subjects=scie,ca,agri)
+Row 55: SKIPPED - 'Saidi Abdalla' matched but no numeric marks found
+Row 56: UPDATE ran for 'Sammy Anderson' (record id 763, affected_rows=1, subjects=scie,ca,agri)
+Row 57: UPDATE ran for 'Samson Moses' (record id 768, affected_rows=1, subjects=scie,ca,agri)
+Row 58: INSERTED - 'Samuel Stella' (student_id 322)
+Row 59: UPDATE ran for 'Samuel Tsuma' (record id 754, affected_rows=1, subjects=scie,ca,agri)
+Row 60: UPDATE ran for 'Saumu Dzimwenga' (record id 755, affected_rows=1, subjects=scie,ca,agri)
+Row 61: SKIPPED - 'Sila Chaga' matched but no numeric marks found
+Row 62: UPDATE ran for 'Stephen Kazungu' (record id 756, affected_rows=1, subjects=scie,ca,agri)
+Row 63: UPDATE ran for 'Umazi Hassan' (record id 757, affected_rows=1, subjects=scie,ca,agri)
+Row 64: UPDATE ran for 'Zablon Mbunzi' (record id 758, affected_rows=1, subjects=scie,ca,agri)
+Row 65: UPDATE ran for 'Zuma Mwadiga' (record id 759, affected_rows=1, subjects=scie,ca,agri)
+RESULT: Upload complete — 1 new record(s) created, 59 mark(s) updated.
+Total students processed: 64
+Inserted: 1
+Updated: 59
+Skipped: 0
+Errors: 0
+
+========================================
+2026-09-08 03:48:50 - UPLOAD STARTED
+Total data rows read from file: 64
+Subject columns detected: scie, agri, ca
+Existing exam2 records found for grade=6 term='Term 3' year=2026 exam_type=opener: 60
+Row 2: UPDATE ran for 'Annastacia Ngui' (record id 715, affected_rows=1, subjects=scie,agri,ca)
+Row 3: UPDATE ran for 'Bahati Karisa' (record id 716, affected_rows=1, subjects=scie,agri,ca)
+Row 4: UPDATE ran for 'Betty Mutheu' (record id 717, affected_rows=1, subjects=scie,agri,ca)
+Row 5: UPDATE ran for 'Binti Bakari' (record id 718, affected_rows=1, subjects=scie,agri,ca)
+Row 6: UPDATE ran for 'Caroline Mueke' (record id 719, affected_rows=1, subjects=scie,agri,ca)
+Row 7: UPDATE ran for 'Chizigwa Chimega' (record id 765, affected_rows=1, subjects=scie,agri,ca)
+Row 8: UPDATE ran for 'Collins Wanza' (record id 720, affected_rows=1, subjects=scie,agri,ca)
+Row 9: UPDATE ran for 'Daniel Kadzingo' (record id 721, affected_rows=1, subjects=scie,agri,ca)
+Row 10: UPDATE ran for 'Daniel Mzungu' (record id 710, affected_rows=1, subjects=scie,agri,ca)
+Row 11: UPDATE ran for 'Daniel Nasson' (record id 722, affected_rows=1, subjects=scie,agri,ca)
+Row 12: UPDATE ran for 'Dorcus Onyango' (record id 760, affected_rows=1, subjects=scie,agri,ca)
+Row 13: UPDATE ran for 'Dzadze Mudzomba' (record id 723, affected_rows=1, subjects=scie,agri,ca)
+Row 14: UPDATE ran for 'Eliud Makanga' (record id 766, affected_rows=1, subjects=scie,agri,ca)
+Row 15: UPDATE ran for 'Elizabeth Mjeni' (record id 724, affected_rows=1, subjects=scie,agri,ca)
+Row 16: UPDATE ran for 'Elizabeth Munga' (record id 725, affected_rows=1, subjects=scie,agri,ca)
+Row 17: UPDATE ran for 'Enoshi Tsimba' (record id 726, affected_rows=1, subjects=scie,agri,ca)
+Row 18: UPDATE ran for 'Esther Ngome' (record id 727, affected_rows=1, subjects=scie,agri,ca)
+Row 19: UPDATE ran for 'Evans Duga' (record id 728, affected_rows=1, subjects=scie,agri,ca)
+Row 20: UPDATE ran for 'Faith Fatuma' (record id 729, affected_rows=1, subjects=scie,agri,ca)
+Row 21: UPDATE ran for 'Gloria Festus' (record id 730, affected_rows=1, subjects=scie,agri,ca)
+Row 22: UPDATE ran for 'Grace Wambua' (record id 731, affected_rows=1, subjects=scie,agri,ca)
+Row 23: UPDATE ran for 'Habasi Hamisi' (record id 732, affected_rows=1, subjects=scie,agri,ca)
+Row 24: UPDATE ran for 'Halima Mtinda' (record id 733, affected_rows=1, subjects=scie,agri,ca)
+Row 25: UPDATE ran for 'Hamisi Kitumbua' (record id 734, affected_rows=1, subjects=scie,agri,ca)
+Row 26: UPDATE ran for 'Hamisi Masudi' (record id 735, affected_rows=1, subjects=scie,agri,ca)
+Row 27: UPDATE ran for 'Henry Mwanyika' (record id 736, affected_rows=1, subjects=scie,agri,ca)
+Row 28: UPDATE ran for 'Immaculate Mwero' (record id 737, affected_rows=1, subjects=scie,agri,ca)
+Row 29: UPDATE ran for 'Ismail Tsuma' (record id 767, affected_rows=1, subjects=scie,agri,ca)
+Row 30: SKIPPED - 'James Kilonzo' matched but no numeric marks found
+Row 31: UPDATE ran for 'Julita Mbula' (record id 711, affected_rows=1, subjects=scie,agri,ca)
+Row 32: UPDATE ran for 'Loice Chaka' (record id 738, affected_rows=1, subjects=scie,agri,ca)
+Row 33: UPDATE ran for 'Malkia Juma' (record id 739, affected_rows=1, subjects=scie,agri,ca)
+Row 34: UPDATE ran for 'Margaret Paul' (record id 740, affected_rows=1, subjects=scie,agri,ca)
+Row 35: SKIPPED - 'Mary Mwikali' matched but no numeric marks found
+Row 36: UPDATE ran for 'Mathew Dablon' (record id 741, affected_rows=1, subjects=scie,agri,ca)
+Row 37: UPDATE ran for 'Mercy Masika' (record id 742, affected_rows=1, subjects=scie,agri,ca)
+Row 38: UPDATE ran for 'Miriam Mutheu' (record id 712, affected_rows=1, subjects=scie,agri,ca)
+Row 39: UPDATE ran for 'Mohammed Juma' (record id 743, affected_rows=1, subjects=scie,agri,ca)
+Row 40: UPDATE ran for 'Mohammed Ndoro' (record id 744, affected_rows=1, subjects=scie,agri,ca)
+Row 41: UPDATE ran for 'Mose Konga' (record id 745, affected_rows=0, subjects=scie,agri,ca)
+Row 41: WARNING - UPDATE matched 0 rows for id 745. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 42: UPDATE ran for 'Mueni Paul' (record id 746, affected_rows=1, subjects=scie,agri,ca)
+Row 43: UPDATE ran for 'Mulei Ali' (record id 747, affected_rows=1, subjects=scie,agri,ca)
+Row 44: UPDATE ran for 'Muli Mtua' (record id 748, affected_rows=1, subjects=scie,agri,ca)
+Row 45: UPDATE ran for 'Mwanajuma Hamisi' (record id 761, affected_rows=1, subjects=scie,agri,ca)
+Row 46: UPDATE ran for 'Mwanalima Dzine' (record id 749, affected_rows=0, subjects=scie,agri,ca)
+Row 46: WARNING - UPDATE matched 0 rows for id 749. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 47: UPDATE ran for 'Nadzuwa Ali' (record id 750, affected_rows=0, subjects=scie,agri,ca)
+Row 47: WARNING - UPDATE matched 0 rows for id 750. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 48: UPDATE ran for 'Nasra Ali' (record id 751, affected_rows=1, subjects=scie,agri,ca)
+Row 49: UPDATE ran for 'Patterson Mwahanje' (record id 764, affected_rows=1, subjects=scie,agri,ca)
+Row 50: UPDATE ran for 'Paul Wambua' (record id 713, affected_rows=1, subjects=scie,agri,ca)
+Row 51: UPDATE ran for 'Polina Tsuma' (record id 752, affected_rows=1, subjects=scie,agri,ca)
+Row 52: UPDATE ran for 'Priscilla Mzungu' (record id 753, affected_rows=1, subjects=scie,agri,ca)
+Row 53: UPDATE ran for 'Rasoa Tsimba' (record id 714, affected_rows=1, subjects=scie,agri,ca)
+Row 54: UPDATE ran for 'Ruwa Tsuma' (record id 762, affected_rows=1, subjects=scie,agri,ca)
+Row 55: SKIPPED - 'Saidi Abdalla' matched but no numeric marks found
+Row 56: UPDATE ran for 'Sammy Anderson' (record id 763, affected_rows=1, subjects=scie,agri,ca)
+Row 57: UPDATE ran for 'Samson Moses' (record id 768, affected_rows=1, subjects=scie,agri,ca)
+Row 58: UPDATE ran for 'Samuel Stella' (record id 769, affected_rows=1, subjects=scie,agri,ca)
+Row 59: UPDATE ran for 'Samuel Tsuma' (record id 754, affected_rows=1, subjects=scie,agri,ca)
+Row 60: UPDATE ran for 'Saumu Dzimwenga' (record id 755, affected_rows=1, subjects=scie,agri,ca)
+Row 61: SKIPPED - 'Sila Chaga' matched but no numeric marks found
+Row 62: UPDATE ran for 'Stephen Kazungu' (record id 756, affected_rows=1, subjects=scie,agri,ca)
+Row 63: UPDATE ran for 'Umazi Hassan' (record id 757, affected_rows=1, subjects=scie,agri,ca)
+Row 64: UPDATE ran for 'Zablon Mbunzi' (record id 758, affected_rows=1, subjects=scie,agri,ca)
+Row 65: UPDATE ran for 'Zuma Mwadiga' (record id 759, affected_rows=1, subjects=scie,agri,ca)
+RESULT: Upload complete — 0 new record(s) created, 60 mark(s) updated.
+Total students processed: 64
+Inserted: 0
+Updated: 60
+Skipped: 0
+Errors: 0
+
+========================================
+2026-09-22 00:01:37 - UPLOAD STARTED
+Total data rows read from file: 62
+Subject columns detected: ca
+Existing exam2 records found for grade=5 term='Term 3' year=2026 exam_type=opener: 58
+Row 2: UPDATE ran for 'Abdul Nyawa' (record id 770, affected_rows=1, subjects=ca)
+Row 3: UPDATE ran for 'Abel Mulei' (record id 771, affected_rows=1, subjects=ca)
+Row 4: UPDATE ran for 'Amon Mutinda' (record id 772, affected_rows=1, subjects=ca)
+Row 5: UPDATE ran for 'Amos Yaa' (record id 773, affected_rows=1, subjects=ca)
+Row 6: UPDATE ran for 'Angel Nzilani' (record id 774, affected_rows=1, subjects=ca)
+Row 7: UPDATE ran for 'Ashline Mutunga' (record id 775, affected_rows=1, subjects=ca)
+Row 8: UPDATE ran for 'Bakari Suleiman' (record id 776, affected_rows=1, subjects=ca)
+Row 9: UPDATE ran for 'Ben Salim' (record id 777, affected_rows=1, subjects=ca)
+Row 10: UPDATE ran for 'Benard Mutunga' (record id 778, affected_rows=1, subjects=ca)
+Row 11: UPDATE ran for 'Brian Muteti' (record id 779, affected_rows=1, subjects=ca)
+Row 12: UPDATE ran for 'Caren Nasib' (record id 780, affected_rows=1, subjects=ca)
+Row 13: UPDATE ran for 'Chizi Mwanyika' (record id 781, affected_rows=1, subjects=ca)
+Row 14: UPDATE ran for 'Clemence James' (record id 782, affected_rows=1, subjects=ca)
+Row 15: UPDATE ran for 'Clinton Pius' (record id 783, affected_rows=1, subjects=ca)
+Row 16: UPDATE ran for 'David Joseph' (record id 784, affected_rows=1, subjects=ca)
+Row 17: UPDATE ran for 'Dorcus Ndeti' (record id 785, affected_rows=1, subjects=ca)
+Row 18: UPDATE ran for 'Doris Dzitu' (record id 786, affected_rows=1, subjects=ca)
+Row 19: SKIPPED - 'Doris Mwikali' matched but no numeric marks found
+Row 20: UPDATE ran for 'Elijah Ndeti' (record id 787, affected_rows=1, subjects=ca)
+Row 21: UPDATE ran for 'Elizabeth Leli' (record id 788, affected_rows=1, subjects=ca)
+Row 22: UPDATE ran for 'Happy Nthuli' (record id 789, affected_rows=1, subjects=ca)
+Row 23: UPDATE ran for 'Holiness Mutungwa' (record id 790, affected_rows=1, subjects=ca)
+Row 24: UPDATE ran for 'Holiness Pendo' (record id 791, affected_rows=1, subjects=ca)
+Row 25: UPDATE ran for 'Hope John' (record id 792, affected_rows=1, subjects=ca)
+Row 26: UPDATE ran for 'Ian Wambua' (record id 793, affected_rows=1, subjects=ca)
+Row 27: UPDATE ran for 'Jacob Rai' (record id 794, affected_rows=1, subjects=ca)
+Row 28: UPDATE ran for 'Jane Shiko' (record id 795, affected_rows=1, subjects=ca)
+Row 29: UPDATE ran for 'Jeremiah Kyalo' (record id 796, affected_rows=1, subjects=ca)
+Row 30: UPDATE ran for 'Jeremiah Mutua' (record id 797, affected_rows=1, subjects=ca)
+Row 31: SKIPPED - 'Jonathan Mutuku' matched but no numeric marks found
+Row 32: UPDATE ran for 'Josephat Mbunzi' (record id 799, affected_rows=1, subjects=ca)
+Row 33: UPDATE ran for 'Jovin Chakaya' (record id 800, affected_rows=1, subjects=ca)
+Row 34: UPDATE ran for 'Kalama Njoroge' (record id 801, affected_rows=1, subjects=ca)
+Row 35: UPDATE ran for 'Karim Lwambi' (record id 802, affected_rows=1, subjects=ca)
+Row 36: UPDATE ran for 'Kwekwe Mdzombsa' (record id 803, affected_rows=1, subjects=ca)
+Row 37: UPDATE ran for 'Laban Manganga' (record id 804, affected_rows=1, subjects=ca)
+Row 38: SKIPPED - 'Lazarus Mbeyu' matched but no numeric marks found
+Row 39: UPDATE ran for 'Lydia Mtie' (record id 805, affected_rows=1, subjects=ca)
+Row 40: UPDATE ran for 'Mansoor Ndegwa' (record id 806, affected_rows=1, subjects=ca)
+Row 41: UPDATE ran for 'Mariam Mtinda' (record id 807, affected_rows=1, subjects=ca)
+Row 42: UPDATE ran for 'Mariana Boniface' (record id 808, affected_rows=1, subjects=ca)
+Row 43: SKIPPED - 'Matano Swaleh' matched but no numeric marks found
+Row 44: UPDATE ran for 'Michael Juma' (record id 810, affected_rows=1, subjects=ca)
+Row 45: UPDATE ran for 'Mkala Swaleh' (record id 811, affected_rows=1, subjects=ca)
+Row 46: UPDATE ran for 'Mohammed Iddi' (record id 1095, affected_rows=1, subjects=ca)
+Row 47: UPDATE ran for 'Monica Konga' (record id 812, affected_rows=1, subjects=ca)
+Row 48: UPDATE ran for 'Mwamumbo Mwanyika' (record id 813, affected_rows=1, subjects=ca)
+Row 49: UPDATE ran for 'Mwanasha Mwasiku' (record id 814, affected_rows=1, subjects=ca)
+Row 50: SKIPPED - 'Omar Kajimbi' matched but no numeric marks found
+Row 51: SKIPPED - 'Peter Kinyili' matched but no numeric marks found
+Row 52: UPDATE ran for 'Radhia Nyiro' (record id 817, affected_rows=1, subjects=ca)
+Row 53: UPDATE ran for 'Rose Mutinda' (record id 818, affected_rows=1, subjects=ca)
+Row 54: UPDATE ran for 'Salim Abdulraheem' (record id 819, affected_rows=1, subjects=ca)
+Row 55: UPDATE ran for 'Salma Juma' (record id 820, affected_rows=1, subjects=ca)
+Row 56: UPDATE ran for 'Samuel Ndurya' (record id 821, affected_rows=1, subjects=ca)
+Row 57: SKIPPED - 'Sarah Hamolo' matched but no numeric marks found
+Row 58: UPDATE ran for 'Sarah Makau' (record id 822, affected_rows=1, subjects=ca)
+Row 59: UPDATE ran for 'Saumu Kitumbua' (record id 823, affected_rows=1, subjects=ca)
+Row 60: UPDATE ran for 'Sharon Jumaa' (record id 824, affected_rows=1, subjects=ca)
+Row 61: UPDATE ran for 'Simon Paul' (record id 825, affected_rows=1, subjects=ca)
+Row 62: SKIPPED - 'Vyani Zuma' matched but no numeric marks found
+Row 63: UPDATE ran for 'Zhuleka Mwingo' (record id 826, affected_rows=1, subjects=ca)
+RESULT: Upload complete — 0 new record(s) created, 54 mark(s) updated.
+Total students processed: 62
+Inserted: 0
+Updated: 54
+Skipped: 0
+Errors: 0
+
+========================================
+2026-09-22 00:02:16 - UPLOAD STARTED
+Total data rows read from file: 62
+Subject columns detected: ca
+Existing exam2 records found for grade=5 term='Term 3' year=2026 exam_type=opener: 58
+Row 2: UPDATE ran for 'Abdul Nyawa' (record id 770, affected_rows=0, subjects=ca)
+Row 2: WARNING - UPDATE matched 0 rows for id 770. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 3: UPDATE ran for 'Abel Mulei' (record id 771, affected_rows=0, subjects=ca)
+Row 3: WARNING - UPDATE matched 0 rows for id 771. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 4: UPDATE ran for 'Amon Mutinda' (record id 772, affected_rows=0, subjects=ca)
+Row 4: WARNING - UPDATE matched 0 rows for id 772. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 5: UPDATE ran for 'Amos Yaa' (record id 773, affected_rows=0, subjects=ca)
+Row 5: WARNING - UPDATE matched 0 rows for id 773. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 6: UPDATE ran for 'Angel Nzilani' (record id 774, affected_rows=0, subjects=ca)
+Row 6: WARNING - UPDATE matched 0 rows for id 774. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 7: UPDATE ran for 'Ashline Mutunga' (record id 775, affected_rows=0, subjects=ca)
+Row 7: WARNING - UPDATE matched 0 rows for id 775. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 8: UPDATE ran for 'Bakari Suleiman' (record id 776, affected_rows=0, subjects=ca)
+Row 8: WARNING - UPDATE matched 0 rows for id 776. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 9: UPDATE ran for 'Ben Salim' (record id 777, affected_rows=0, subjects=ca)
+Row 9: WARNING - UPDATE matched 0 rows for id 777. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 10: UPDATE ran for 'Benard Mutunga' (record id 778, affected_rows=0, subjects=ca)
+Row 10: WARNING - UPDATE matched 0 rows for id 778. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 11: UPDATE ran for 'Brian Muteti' (record id 779, affected_rows=0, subjects=ca)
+Row 11: WARNING - UPDATE matched 0 rows for id 779. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 12: UPDATE ran for 'Caren Nasib' (record id 780, affected_rows=0, subjects=ca)
+Row 12: WARNING - UPDATE matched 0 rows for id 780. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 13: UPDATE ran for 'Chizi Mwanyika' (record id 781, affected_rows=0, subjects=ca)
+Row 13: WARNING - UPDATE matched 0 rows for id 781. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 14: UPDATE ran for 'Clemence James' (record id 782, affected_rows=0, subjects=ca)
+Row 14: WARNING - UPDATE matched 0 rows for id 782. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 15: UPDATE ran for 'Clinton Pius' (record id 783, affected_rows=0, subjects=ca)
+Row 15: WARNING - UPDATE matched 0 rows for id 783. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 16: UPDATE ran for 'David Joseph' (record id 784, affected_rows=0, subjects=ca)
+Row 16: WARNING - UPDATE matched 0 rows for id 784. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 17: UPDATE ran for 'Dorcus Ndeti' (record id 785, affected_rows=0, subjects=ca)
+Row 17: WARNING - UPDATE matched 0 rows for id 785. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 18: UPDATE ran for 'Doris Dzitu' (record id 786, affected_rows=0, subjects=ca)
+Row 18: WARNING - UPDATE matched 0 rows for id 786. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 19: SKIPPED - 'Doris Mwikali' matched but no numeric marks found
+Row 20: UPDATE ran for 'Elijah Ndeti' (record id 787, affected_rows=0, subjects=ca)
+Row 20: WARNING - UPDATE matched 0 rows for id 787. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 21: UPDATE ran for 'Elizabeth Leli' (record id 788, affected_rows=0, subjects=ca)
+Row 21: WARNING - UPDATE matched 0 rows for id 788. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 22: UPDATE ran for 'Happy Nthuli' (record id 789, affected_rows=0, subjects=ca)
+Row 22: WARNING - UPDATE matched 0 rows for id 789. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 23: UPDATE ran for 'Holiness Mutungwa' (record id 790, affected_rows=0, subjects=ca)
+Row 23: WARNING - UPDATE matched 0 rows for id 790. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 24: UPDATE ran for 'Holiness Pendo' (record id 791, affected_rows=0, subjects=ca)
+Row 24: WARNING - UPDATE matched 0 rows for id 791. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 25: UPDATE ran for 'Hope John' (record id 792, affected_rows=0, subjects=ca)
+Row 25: WARNING - UPDATE matched 0 rows for id 792. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 26: UPDATE ran for 'Ian Wambua' (record id 793, affected_rows=0, subjects=ca)
+Row 26: WARNING - UPDATE matched 0 rows for id 793. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 27: UPDATE ran for 'Jacob Rai' (record id 794, affected_rows=0, subjects=ca)
+Row 27: WARNING - UPDATE matched 0 rows for id 794. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 28: UPDATE ran for 'Jane Shiko' (record id 795, affected_rows=0, subjects=ca)
+Row 28: WARNING - UPDATE matched 0 rows for id 795. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 29: UPDATE ran for 'Jeremiah Kyalo' (record id 796, affected_rows=0, subjects=ca)
+Row 29: WARNING - UPDATE matched 0 rows for id 796. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 30: UPDATE ran for 'Jeremiah Mutua' (record id 797, affected_rows=0, subjects=ca)
+Row 30: WARNING - UPDATE matched 0 rows for id 797. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 31: SKIPPED - 'Jonathan Mutuku' matched but no numeric marks found
+Row 32: UPDATE ran for 'Josephat Mbunzi' (record id 799, affected_rows=0, subjects=ca)
+Row 32: WARNING - UPDATE matched 0 rows for id 799. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 33: UPDATE ran for 'Jovin Chakaya' (record id 800, affected_rows=0, subjects=ca)
+Row 33: WARNING - UPDATE matched 0 rows for id 800. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 34: UPDATE ran for 'Kalama Njoroge' (record id 801, affected_rows=0, subjects=ca)
+Row 34: WARNING - UPDATE matched 0 rows for id 801. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 35: UPDATE ran for 'Karim Lwambi' (record id 802, affected_rows=0, subjects=ca)
+Row 35: WARNING - UPDATE matched 0 rows for id 802. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 36: UPDATE ran for 'Kwekwe Mdzombsa' (record id 803, affected_rows=0, subjects=ca)
+Row 36: WARNING - UPDATE matched 0 rows for id 803. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 37: UPDATE ran for 'Laban Manganga' (record id 804, affected_rows=0, subjects=ca)
+Row 37: WARNING - UPDATE matched 0 rows for id 804. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 38: SKIPPED - 'Lazarus Mbeyu' matched but no numeric marks found
+Row 39: UPDATE ran for 'Lydia Mtie' (record id 805, affected_rows=0, subjects=ca)
+Row 39: WARNING - UPDATE matched 0 rows for id 805. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 40: UPDATE ran for 'Mansoor Ndegwa' (record id 806, affected_rows=0, subjects=ca)
+Row 40: WARNING - UPDATE matched 0 rows for id 806. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 41: UPDATE ran for 'Mariam Mtinda' (record id 807, affected_rows=0, subjects=ca)
+Row 41: WARNING - UPDATE matched 0 rows for id 807. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 42: UPDATE ran for 'Mariana Boniface' (record id 808, affected_rows=0, subjects=ca)
+Row 42: WARNING - UPDATE matched 0 rows for id 808. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 43: SKIPPED - 'Matano Swaleh' matched but no numeric marks found
+Row 44: UPDATE ran for 'Michael Juma' (record id 810, affected_rows=0, subjects=ca)
+Row 44: WARNING - UPDATE matched 0 rows for id 810. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 45: UPDATE ran for 'Mkala Swaleh' (record id 811, affected_rows=0, subjects=ca)
+Row 45: WARNING - UPDATE matched 0 rows for id 811. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 46: UPDATE ran for 'Mohammed Iddi' (record id 1095, affected_rows=0, subjects=ca)
+Row 46: WARNING - UPDATE matched 0 rows for id 1095. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 47: UPDATE ran for 'Monica Konga' (record id 812, affected_rows=0, subjects=ca)
+Row 47: WARNING - UPDATE matched 0 rows for id 812. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 48: UPDATE ran for 'Mwamumbo Mwanyika' (record id 813, affected_rows=0, subjects=ca)
+Row 48: WARNING - UPDATE matched 0 rows for id 813. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 49: UPDATE ran for 'Mwanasha Mwasiku' (record id 814, affected_rows=0, subjects=ca)
+Row 49: WARNING - UPDATE matched 0 rows for id 814. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 50: SKIPPED - 'Omar Kajimbi' matched but no numeric marks found
+Row 51: SKIPPED - 'Peter Kinyili' matched but no numeric marks found
+Row 52: UPDATE ran for 'Radhia Nyiro' (record id 817, affected_rows=0, subjects=ca)
+Row 52: WARNING - UPDATE matched 0 rows for id 817. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 53: UPDATE ran for 'Rose Mutinda' (record id 818, affected_rows=0, subjects=ca)
+Row 53: WARNING - UPDATE matched 0 rows for id 818. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 54: UPDATE ran for 'Salim Abdulraheem' (record id 819, affected_rows=0, subjects=ca)
+Row 54: WARNING - UPDATE matched 0 rows for id 819. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 55: UPDATE ran for 'Salma Juma' (record id 820, affected_rows=0, subjects=ca)
+Row 55: WARNING - UPDATE matched 0 rows for id 820. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 56: UPDATE ran for 'Samuel Ndurya' (record id 821, affected_rows=0, subjects=ca)
+Row 56: WARNING - UPDATE matched 0 rows for id 821. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 57: SKIPPED - 'Sarah Hamolo' matched but no numeric marks found
+Row 58: UPDATE ran for 'Sarah Makau' (record id 822, affected_rows=0, subjects=ca)
+Row 58: WARNING - UPDATE matched 0 rows for id 822. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 59: UPDATE ran for 'Saumu Kitumbua' (record id 823, affected_rows=0, subjects=ca)
+Row 59: WARNING - UPDATE matched 0 rows for id 823. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 60: UPDATE ran for 'Sharon Jumaa' (record id 824, affected_rows=0, subjects=ca)
+Row 60: WARNING - UPDATE matched 0 rows for id 824. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 61: UPDATE ran for 'Simon Paul' (record id 825, affected_rows=0, subjects=ca)
+Row 61: WARNING - UPDATE matched 0 rows for id 825. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+Row 62: SKIPPED - 'Vyani Zuma' matched but no numeric marks found
+Row 63: UPDATE ran for 'Zhuleka Mwingo' (record id 826, affected_rows=0, subjects=ca)
+Row 63: WARNING - UPDATE matched 0 rows for id 826. Either that id no longer exists in exam2, or the values were already identical to what's stored.
+RESULT: Upload complete — 0 new record(s) created, 54 mark(s) updated.
+Total students processed: 62
+Inserted: 0
+Updated: 54
+Skipped: 0
+Errors: 0
+
+========================================
+2026-09-22 00:24:05 - UPLOAD STARTED
+Total data rows read from file: 55
+Subject columns detected: ca
+Existing exam2 records found for grade=4 term='Term 3' year=2026 exam_type=opener: 40
+Row 2: UPDATE ran for 'Abdul Charo' (record id 827, affected_rows=1, subjects=ca)
+Row 3: INSERTED - 'Abel Barua' (student_id 663)
+Row 4: UPDATE ran for 'Abigael Timothy' (record id 828, affected_rows=1, subjects=ca)
+Row 5: UPDATE ran for 'Adam Menza' (record id 829, affected_rows=1, subjects=ca)
+Row 6: UPDATE ran for 'Ali Nassa' (record id 830, affected_rows=1, subjects=ca)
+Row 7: SKIPPED - 'Aloo Nyae' matched but no numeric marks found
+Row 8: SKIPPED - 'Angel Kendi' matched but no numeric marks found
+Row 9: UPDATE ran for 'Binti Hussein' (record id 831, affected_rows=1, subjects=ca)
+Row 10: UPDATE ran for 'Blessing Wema' (record id 832, affected_rows=1, subjects=ca)
+Row 11: UPDATE ran for 'Charles Mwanyika' (record id 833, affected_rows=1, subjects=ca)
+Row 12: UPDATE ran for 'Daniel Masha' (record id 834, affected_rows=1, subjects=ca)
+Row 13: SKIPPED - 'David Muuo' matched but no numeric marks found
+Row 14: UPDATE ran for 'David Mwanzia' (record id 835, affected_rows=1, subjects=ca)
+Row 15: UPDATE ran for 'Debora Tsuma' (record id 836, affected_rows=1, subjects=ca)
+Row 16: UPDATE ran for 'Elias Ndegwa' (record id 837, affected_rows=1, subjects=ca)
+Row 17: UPDATE ran for 'Esther Nyamvula' (record id 838, affected_rows=1, subjects=ca)
+Row 18: UPDATE ran for 'Evaline Mutua' (record id 839, affected_rows=1, subjects=ca)
+Row 19: UPDATE ran for 'Evans Mwaega' (record id 840, affected_rows=1, subjects=ca)
+Row 20: SKIPPED - 'Faizan James' matched but no numeric marks found
+Row 21: UPDATE ran for 'Grace Nyamawi' (record id 841, affected_rows=1, subjects=ca)
+Row 22: UPDATE ran for 'Grace Pendo' (record id 842, affected_rows=1, subjects=ca)
+Row 23: UPDATE ran for 'Grace Samuel' (record id 843, affected_rows=1, subjects=ca)
+Row 24: SKIPPED - 'Hamisi Mangale' matched but no numeric marks found
+Row 25: UPDATE ran for 'Hasssan Mohammed' (record id 844, affected_rows=1, subjects=ca)
+Row 26: UPDATE ran for 'Henry Mbethi' (record id 845, affected_rows=1, subjects=ca)
+Row 27: INSERTED - 'Idd Mjema' (student_id 658)
+Row 28: INSERTED - 'Irine Evans' (student_id 670)
+Row 29: INSERTED - 'Jackson Chaga' (student_id 628)
+Row 30: INSERTED - 'Jeremiah Tsuma' (student_id 635)
+Row 31: UPDATE ran for 'Joyce Kengo' (record id 846, affected_rows=1, subjects=ca)
+Row 32: INSERTED - 'Juma Ndegwa' (student_id 637)
+Row 33: SKIPPED - 'Juma Shobo' matched but no numeric marks found
+Row 34: SKIPPED - 'Kalama Chengo' matched but no numeric marks found
+Row 35: INSERTED - 'Kalume Yongo' (student_id 638)
+Row 36: UPDATE ran for 'Mbega Rai' (record id 1195, affected_rows=1, subjects=ca)
+Row 37: UPDATE ran for 'Mejumaa Mwatunje' (record id 848, affected_rows=1, subjects=ca)
+Row 38: UPDATE ran for 'Milton Baraka' (record id 849, affected_rows=1, subjects=ca)
+Row 39: SKIPPED - 'Mwanajuma Hamisi' matched but no numeric marks found
+Row 40: UPDATE ran for 'Mwanamisi Ngao' (record id 851, affected_rows=1, subjects=ca)
+Row 41: SKIPPED - 'Mwanamkuu Ndegwa' matched but no numeric marks found
+Row 42: SKIPPED - 'Naftal Chakaya' matched but no numeric marks found
+Row 43: UPDATE ran for 'Naomi Mwari' (record id 852, affected_rows=1, subjects=ca)
+Row 44: UPDATE ran for 'Ngala Yongo' (record id 853, affected_rows=1, subjects=ca)
+Row 45: UPDATE ran for 'Patason Ali' (record id 1194, affected_rows=1, subjects=ca)
+Row 46: SKIPPED - 'Precious Jongoo' matched but no numeric marks found
+Row 47: UPDATE ran for 'Rose Wakio' (record id 854, affected_rows=1, subjects=ca)
+Row 48: SKIPPED - 'Saidi Juma' matched but no numeric marks found
+Row 49: UPDATE ran for 'Saidi Mabwere' (record id 1193, affected_rows=1, subjects=ca)
+Row 50: UPDATE ran for 'Salimu Mwareje' (record id 856, affected_rows=1, subjects=ca)
+Row 51: UPDATE ran for 'Samson Masha' (record id 857, affected_rows=1, subjects=ca)
+Row 52: UPDATE ran for 'Samuel Mrabu' (record id 1196, affected_rows=1, subjects=ca)
+Row 53: UPDATE ran for 'Sara Fronsia' (record id 858, affected_rows=1, subjects=ca)
+Row 54: UPDATE ran for 'Saumu Mumbi' (record id 859, affected_rows=1, subjects=ca)
+Row 55: UPDATE ran for 'Stella Katsaka' (record id 860, affected_rows=1, subjects=ca)
+Row 56: UPDATE ran for 'Stephen Katana' (record id 861, affected_rows=1, subjects=ca)
+RESULT: Upload complete — 7 new record(s) created, 36 mark(s) updated.
+Total students processed: 55
+Inserted: 7
+Updated: 36
+Skipped: 0
+Errors: 0
+
+========================================
+2026-09-22 02:15:36 - UPLOAD STARTED
+Total data rows read from file: 46
+Subject columns detected: math, eng, kisw
+Existing exam2 records found for grade=1 term='Term 3' year=2026 exam_type=opener: 0
+Row 2: INSERTED - 'Fatuma Abdalla' (student_id 775)
+Row 3: INSERTED - 'Brandon Daniel' (student_id 674)
+Row 4: INSERTED - 'Susan Elias' (student_id 683)
+Row 5: INSERTED - 'Samuel Evans' (student_id 755)
+Row 6: INSERTED - 'Isomba Gloria' (student_id 675)
+Row 7: INSERTED - 'Athman Hamisi' (student_id 696)
+Row 8: INSERTED - 'Mejumaa Hassan' (student_id 709)
+Row 9: INSERTED - 'Penina Hassan' (student_id 713)
+Row 10: INSERTED - 'Malemba Jeniffer' (student_id 677)
+Row 11: INSERTED - 'Salma Joseph' (student_id 689)
+Row 12: INSERTED - 'Moses Julo' (student_id 707)
+Row 13: INSERTED - 'Angel Kadzo' (student_id 691)
+Row 14: INSERTED - 'Athman Karisa' (student_id 704)
+Row 15: INSERTED - 'Deborah Kilimo' (student_id 681)
+Row 16: INSERTED - 'Ibrahim Kimega' (student_id 695)
+Row 17: INSERTED - 'Margeret Kulwa' (student_id 685)
+Row 18: INSERTED - 'James Malekya' (student_id 686)
+Row 19: INSERTED - 'James Manthi' (student_id 702)
+Row 20: INSERTED - 'Abigael Mbodze' (student_id 708)
+Row 21: INSERTED - 'Agnes Mbodze' (student_id 774)
+Row 22: INSERTED - 'Mwatuma Mdune' (student_id 710)
+Row 23: INSERTED - 'Esther Mdzomba' (student_id 705)
+Row 24: INSERTED - 'Mwanakombo Mlongo' (student_id 697)
+Row 25: INSERTED - 'Abubakar Mohammed' (student_id 776)
+Row 26: INSERTED - 'Daniel Muli' (student_id 690)
+Row 27: INSERTED - 'Rose Mulu' (student_id 698)
+Row 28: INSERTED - 'Bridget Mutinda' (student_id 673)
+Row 29: INSERTED - 'Monica Mutinda' (student_id 756)
+Row 30: INSERTED - 'David Mutua' (student_id 688)
+Row 31: INSERTED - 'Mary Mutua' (student_id 700)
+Row 32: INSERTED - 'David Mwaita' (student_id 694)
+Row 33: INSERTED - 'Defence Mwakio' (student_id 678)
+Row 34: INSERTED - 'Hamisi Mwangumaye' (student_id 682)
+Row 35: INSERTED - 'Bendera Mwanyika' (student_id 711)
+Row 36: INSERTED - 'Emmanuel Mwanyika' (student_id 712)
+Row 37: INSERTED - 'Imran Ndende' (student_id 701)
+Row 38: INSERTED - 'Nelson Ngome' (student_id 680)
+Row 39: INSERTED - 'Benard Nzioki' (student_id 699)
+Row 40: INSERTED - 'Munir Omar' (student_id 693)
+Row 41: SKIPPED - 'Ali Ruwa' not found in Student table for grade 1
+Row 42: INSERTED - 'Priscah Stephen' (student_id 692)
+Row 43: INSERTED - 'Samson Stephen' (student_id 684)
+Row 44: INSERTED - 'Omar Swaib' (student_id 716)
+Row 45: INSERTED - 'Mariam Tsango' (student_id 679)
+Row 46: INSERTED - 'Moses Tsuma' (student_id 687)
+Row 47: INSERTED - 'Nyamawi Umazi' (student_id 676)
+RESULT: Upload complete — 45 new record(s) created, 0 mark(s) updated, 1 row(s) skipped (student not found or empty name).
+Total students processed: 46
+Inserted: 45
+Updated: 0
+Skipped: 1
+Errors: 0
+
+========================================
+2026-09-22 02:16:21 - UPLOAD STARTED
+Total data rows read from file: 36
+Subject columns detected: math, eng, kisw
+Existing exam2 records found for grade=2 term='Term 3' year=2026 exam_type=opener: 0
+Row 2: INSERTED - 'Khamis Abdalla' (student_id 737)
+Row 3: INSERTED - 'Salim Baraka' (student_id 717)
+Row 4: INSERTED - 'Kelvin Chondo' (student_id 721)
+Row 5: INSERTED - 'Tsimba Eliab' (student_id 722)
+Row 6: INSERTED - 'Paul Festus' (student_id 723)
+Row 7: INSERTED - 'Brian Joseph' (student_id 736)
+Row 8: INSERTED - 'Dayana Juma' (student_id 741)
+Row 9: INSERTED - 'Gedion Juma' (student_id 732)
+Row 10: INSERTED - 'Susan Kadzo' (student_id 743)
+Row 11: INSERTED - 'Fridaus Katana' (student_id 744)
+Row 12: INSERTED - 'Daniel Kioko' (student_id 725)
+Row 13: INSERTED - 'Loice Kitumbua' (student_id 750)
+Row 14: INSERTED - 'David Kyalo' (student_id 726)
+Row 15: INSERTED - 'Rama Lambi' (student_id 720)
+Row 16: INSERTED - 'Opa Masha' (student_id 748)
+Row 17: INSERTED - 'Magdalin Mtua' (student_id 749)
+Row 18: INSERTED - 'Omari Mtua' (student_id 739)
+Row 19: INSERTED - 'Mary Mtungwa' (student_id 747)
+Row 20: INSERTED - 'Isaac Muo' (student_id 734)
+Row 21: INSERTED - 'Anorld Musa' (student_id 727)
+Row 22: INSERTED - 'Angel Musyoka' (student_id 754)
+Row 23: INSERTED - 'Ali Mwakidzo' (student_id 730)
+Row 24: INSERTED - 'Boniface Mwangongo' (student_id 738)
+Row 25: INSERTED - 'Eunice Mwangongo' (student_id 740)
+Row 26: INSERTED - 'James Mwavadu' (student_id 733)
+Row 27: INSERTED - 'Beatrice Mwikali' (student_id 746)
+Row 28: INSERTED - 'Rose Mzungu' (student_id 753)
+Row 29: INSERTED - 'Salim Ngao' (student_id 724)
+Row 30: INSERTED - 'Jackson Nyamai' (student_id 728)
+Row 31: INSERTED - 'Jeremiah Nyamawi' (student_id 719)
+Row 32: INSERTED - 'Emmanuel obon' (student_id 729)
+Row 33: INSERTED - 'Joseph Paul' (student_id 735)
+Row 34: INSERTED - 'Mejumaa Rasi' (student_id 752)
+Row 35: INSERTED - 'John Sammy' (student_id 731)
+Row 36: INSERTED - 'Wambua Samson' (student_id 718)
+Row 37: INSERTED - 'Eunice Wambua' (student_id 751)
+RESULT: Upload complete — 36 new record(s) created, 0 mark(s) updated.
+Total students processed: 36
+Inserted: 36
+Updated: 0
+Skipped: 0
+Errors: 0
+
+========================================
+2026-09-22 02:23:07 - UPLOAD STARTED
+Total data rows read from file: 46
+Subject columns detected: math, eng, kisw, scie
+Existing exam2 records found for grade=1 term='Term 3' year=2026 exam_type=opener: 45
+Row 2: UPDATE ran for 'Fatuma Abdalla' (record id 1251, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 3: UPDATE ran for 'Brandon Daniel' (record id 1252, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 4: UPDATE ran for 'Susan Elias' (record id 1253, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 5: UPDATE ran for 'Samuel Evans' (record id 1254, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 6: UPDATE ran for 'Isomba Gloria' (record id 1255, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 7: UPDATE ran for 'Athman Hamisi' (record id 1256, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 8: UPDATE ran for 'Mejumaa Hassan' (record id 1257, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 9: UPDATE ran for 'Penina Hassan' (record id 1258, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 10: UPDATE ran for 'Malemba Jeniffer' (record id 1259, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 11: UPDATE ran for 'Salma Joseph' (record id 1260, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 12: UPDATE ran for 'Moses Julo' (record id 1261, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 13: UPDATE ran for 'Angel Kadzo' (record id 1262, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 14: UPDATE ran for 'Athman Karisa' (record id 1263, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 15: UPDATE ran for 'Deborah Kilimo' (record id 1264, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 16: UPDATE ran for 'Ibrahim Kimega' (record id 1265, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 17: UPDATE ran for 'Margeret Kulwa' (record id 1266, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 18: UPDATE ran for 'James Malekya' (record id 1267, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 19: UPDATE ran for 'James Manthi' (record id 1268, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 20: UPDATE ran for 'Abigael Mbodze' (record id 1269, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 21: UPDATE ran for 'Agnes Mbodze' (record id 1270, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 22: UPDATE ran for 'Mwatuma Mdune' (record id 1271, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 23: UPDATE ran for 'Esther Mdzomba' (record id 1272, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 24: UPDATE ran for 'Mwanakombo Mlongo' (record id 1273, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 25: UPDATE ran for 'Abubakar Mohammed' (record id 1274, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 26: UPDATE ran for 'Daniel Muli' (record id 1275, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 27: UPDATE ran for 'Rose Mulu' (record id 1276, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 28: UPDATE ran for 'Bridget Mutinda' (record id 1277, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 29: UPDATE ran for 'Monica Mutinda' (record id 1278, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 30: UPDATE ran for 'David Mutua' (record id 1279, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 31: UPDATE ran for 'Mary Mutua' (record id 1280, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 32: UPDATE ran for 'David Mwaita' (record id 1281, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 33: UPDATE ran for 'Defence Mwakio' (record id 1282, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 34: UPDATE ran for 'Hamisi Mwangumaye' (record id 1283, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 35: UPDATE ran for 'Bendera Mwanyika' (record id 1284, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 36: UPDATE ran for 'Emmanuel Mwanyika' (record id 1285, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 37: UPDATE ran for 'Imran Ndende' (record id 1286, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 38: UPDATE ran for 'Nelson Ngome' (record id 1287, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 39: UPDATE ran for 'Benard Nzioki' (record id 1288, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 40: UPDATE ran for 'Munir Omar' (record id 1289, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 41: SKIPPED - 'Ali Ruwa' not found in Student table for grade 1
+Row 42: UPDATE ran for 'Priscah Stephen' (record id 1290, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 43: UPDATE ran for 'Samson Stephen' (record id 1291, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 44: UPDATE ran for 'Omar Swaib' (record id 1292, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 45: UPDATE ran for 'Mariam Tsango' (record id 1293, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 46: UPDATE ran for 'Moses Tsuma' (record id 1294, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 47: UPDATE ran for 'Nyamawi Umazi' (record id 1295, affected_rows=1, subjects=math,eng,kisw,scie)
+RESULT: Upload complete — 0 new record(s) created, 45 mark(s) updated, 1 row(s) skipped (student not found or empty name).
+Total students processed: 46
+Inserted: 0
+Updated: 45
+Skipped: 1
+Errors: 0
+
+========================================
+2026-09-22 02:23:42 - UPLOAD STARTED
+Total data rows read from file: 36
+Subject columns detected: math, eng, kisw, scie
+Existing exam2 records found for grade=2 term='Term 3' year=2026 exam_type=opener: 36
+Row 2: UPDATE ran for 'Khamis Abdalla' (record id 1296, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 3: UPDATE ran for 'Salim Baraka' (record id 1297, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 4: UPDATE ran for 'Kelvin Chondo' (record id 1298, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 5: UPDATE ran for 'Tsimba Eliab' (record id 1299, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 6: UPDATE ran for 'Paul Festus' (record id 1300, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 7: UPDATE ran for 'Brian Joseph' (record id 1301, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 8: UPDATE ran for 'Dayana Juma' (record id 1302, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 9: UPDATE ran for 'Gedion Juma' (record id 1303, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 10: UPDATE ran for 'Susan Kadzo' (record id 1304, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 11: UPDATE ran for 'Fridaus Katana' (record id 1305, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 12: UPDATE ran for 'Daniel Kioko' (record id 1306, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 13: UPDATE ran for 'Loice Kitumbua' (record id 1307, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 14: UPDATE ran for 'David Kyalo' (record id 1308, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 15: UPDATE ran for 'Rama Lambi' (record id 1309, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 16: UPDATE ran for 'Opa Masha' (record id 1310, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 17: UPDATE ran for 'Magdalin Mtua' (record id 1311, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 18: UPDATE ran for 'Omari Mtua' (record id 1312, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 19: UPDATE ran for 'Mary Mtungwa' (record id 1313, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 20: UPDATE ran for 'Isaac Muo' (record id 1314, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 21: UPDATE ran for 'Anorld Musa' (record id 1315, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 22: UPDATE ran for 'Angel Musyoka' (record id 1316, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 23: UPDATE ran for 'Ali Mwakidzo' (record id 1317, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 24: UPDATE ran for 'Boniface Mwangongo' (record id 1318, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 25: UPDATE ran for 'Eunice Mwangongo' (record id 1319, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 26: UPDATE ran for 'James Mwavadu' (record id 1320, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 27: UPDATE ran for 'Beatrice Mwikali' (record id 1321, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 28: UPDATE ran for 'Rose Mzungu' (record id 1322, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 29: UPDATE ran for 'Salim Ngao' (record id 1323, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 30: UPDATE ran for 'Jackson Nyamai' (record id 1324, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 31: UPDATE ran for 'Jeremiah Nyamawi' (record id 1325, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 32: UPDATE ran for 'Emmanuel obon' (record id 1326, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 33: UPDATE ran for 'Joseph Paul' (record id 1327, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 34: UPDATE ran for 'Mejumaa Rasi' (record id 1328, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 35: UPDATE ran for 'John Sammy' (record id 1329, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 36: UPDATE ran for 'Wambua Samson' (record id 1330, affected_rows=1, subjects=math,eng,kisw,scie)
+Row 37: UPDATE ran for 'Eunice Wambua' (record id 1331, affected_rows=1, subjects=math,eng,kisw,scie)
+RESULT: Upload complete — 0 new record(s) created, 36 mark(s) updated.
+Total students processed: 36
+Inserted: 0
+Updated: 36
+Skipped: 0
+Errors: 0
+
+========================================
+2026-10-01 00:50:36 - UPLOAD STARTED
+Total data rows read from file: 63
+Subject columns detected: scie, ca
+Existing exam2 records found for grade=6 term='Term 3' year=2026 exam_type=targeter_trial_2: 59
+Row 2: UPDATE ran for 'Annastacia Ngui' (record id 1332, affected_rows=1, subjects=scie,ca)
+Row 3: UPDATE ran for 'Bahati Karisa' (record id 1333, affected_rows=1, subjects=scie,ca)
+Row 4: UPDATE ran for 'Betty Mutheu' (record id 1334, affected_rows=1, subjects=scie,ca)
+Row 5: UPDATE ran for 'Binti Bakari' (record id 1335, affected_rows=1, subjects=scie,ca)
+Row 6: UPDATE ran for 'Caroline Mueke' (record id 1336, affected_rows=1, subjects=scie,ca)
+Row 7: UPDATE ran for 'Chizigwa Chimega' (record id 1337, affected_rows=1, subjects=scie,ca)
+Row 8: SKIPPED - 'Collins Wanza' matched but no numeric marks found
+Row 9: UPDATE ran for 'Daniel Kadzingo' (record id 1390, affected_rows=1, subjects=scie,ca)
+Row 10: UPDATE ran for 'Daniel Mzungu' (record id 1338, affected_rows=1, subjects=scie,ca)
+Row 11: UPDATE ran for 'Daniel Nasson' (record id 1339, affected_rows=1, subjects=scie,ca)
+Row 12: UPDATE ran for 'Dorcus Onyango' (record id 1340, affected_rows=1, subjects=scie,ca)
+Row 13: UPDATE ran for 'Dzadze Mudzomba' (record id 1341, affected_rows=1, subjects=scie,ca)
+Row 14: UPDATE ran for 'Eliud Makanga' (record id 1342, affected_rows=1, subjects=scie,ca)
+Row 15: UPDATE ran for 'Elizabeth Mjeni' (record id 1343, affected_rows=1, subjects=scie,ca)
+Row 16: UPDATE ran for 'Elizabeth Munga' (record id 1344, affected_rows=1, subjects=scie,ca)
+Row 17: UPDATE ran for 'Enoshi Tsimba' (record id 1345, affected_rows=1, subjects=scie,ca)
+Row 18: UPDATE ran for 'Esther Ngome' (record id 1346, affected_rows=1, subjects=scie,ca)
+Row 19: UPDATE ran for 'Evans Duga' (record id 1347, affected_rows=1, subjects=scie,ca)
+Row 20: UPDATE ran for 'Faith Fatuma' (record id 1348, affected_rows=1, subjects=scie,ca)
+Row 21: UPDATE ran for 'Gloria Festus' (record id 1349, affected_rows=1, subjects=scie,ca)
+Row 22: UPDATE ran for 'Grace Wambua' (record id 1350, affected_rows=1, subjects=scie,ca)
+Row 23: UPDATE ran for 'Habasi Hamisi' (record id 1351, affected_rows=1, subjects=scie,ca)
+Row 24: UPDATE ran for 'Halima Mtinda' (record id 1352, affected_rows=1, subjects=scie,ca)
+Row 25: UPDATE ran for 'Hamisi Kitumbua' (record id 1353, affected_rows=1, subjects=scie,ca)
+Row 26: UPDATE ran for 'Hamisi Masudi' (record id 1354, affected_rows=1, subjects=scie,ca)
+Row 27: UPDATE ran for 'Henry Mwanyika' (record id 1355, affected_rows=1, subjects=scie,ca)
+Row 28: UPDATE ran for 'Immaculate Mwero' (record id 1356, affected_rows=1, subjects=scie,ca)
+Row 29: UPDATE ran for 'James Kilonzo' (record id 1357, affected_rows=1, subjects=scie,ca)
+Row 30: UPDATE ran for 'Julita Mbula' (record id 1358, affected_rows=1, subjects=scie,ca)
+Row 31: UPDATE ran for 'Loice Chaka' (record id 1359, affected_rows=1, subjects=scie,ca)
+Row 32: UPDATE ran for 'Malkia Juma' (record id 1360, affected_rows=1, subjects=scie,ca)
+Row 33: UPDATE ran for 'Margaret Paul' (record id 1361, affected_rows=1, subjects=scie,ca)
+Row 34: SKIPPED - 'Mary Mwikali' matched but no numeric marks found
+Row 35: UPDATE ran for 'Mathew Dablon' (record id 1362, affected_rows=1, subjects=scie,ca)
+Row 36: UPDATE ran for 'Mercy Masika' (record id 1363, affected_rows=1, subjects=scie,ca)
+Row 37: UPDATE ran for 'Michael Francis' (record id 1364, affected_rows=1, subjects=scie,ca)
+Row 38: UPDATE ran for 'Miriam Mutheu' (record id 1365, affected_rows=1, subjects=scie,ca)
+Row 39: UPDATE ran for 'Mohammed Juma' (record id 1366, affected_rows=1, subjects=scie,ca)
+Row 40: UPDATE ran for 'Mohammed Ndoro' (record id 1367, affected_rows=1, subjects=scie,ca)
+Row 41: UPDATE ran for 'Mose Konga' (record id 1368, affected_rows=1, subjects=scie,ca)
+Row 42: UPDATE ran for 'Mueni Paul' (record id 1369, affected_rows=1, subjects=scie,ca)
+Row 43: UPDATE ran for 'Mulei Ali' (record id 1370, affected_rows=1, subjects=scie,ca)
+Row 44: UPDATE ran for 'Muli Mtua' (record id 1371, affected_rows=1, subjects=scie,ca)
+Row 45: UPDATE ran for 'Mwanajuma Hamisi' (record id 1372, affected_rows=1, subjects=scie,ca)
+Row 46: UPDATE ran for 'Mwanalima Dzine' (record id 1373, affected_rows=1, subjects=scie,ca)
+Row 47: UPDATE ran for 'Nadzuwa Ali' (record id 1374, affected_rows=1, subjects=scie,ca)
+Row 48: UPDATE ran for 'Nasra Ali' (record id 1375, affected_rows=1, subjects=scie,ca)
+Row 49: UPDATE ran for 'Patterson Mwahanje' (record id 1376, affected_rows=1, subjects=scie,ca)
+Row 50: UPDATE ran for 'Paul Wambua' (record id 1377, affected_rows=1, subjects=scie,ca)
+Row 51: UPDATE ran for 'Polina Tsuma' (record id 1378, affected_rows=1, subjects=scie,ca)
+Row 52: UPDATE ran for 'Priscilla Mzungu' (record id 1379, affected_rows=1, subjects=scie,ca)
+Row 53: UPDATE ran for 'Rasoa Tsimba' (record id 1380, affected_rows=1, subjects=scie,ca)
+Row 54: UPDATE ran for 'Ruwa Tsuma' (record id 1381, affected_rows=1, subjects=scie,ca)
+Row 55: SKIPPED - 'Saidi Abdalla' matched but no numeric marks found
+Row 56: UPDATE ran for 'Sammy Anderson' (record id 1382, affected_rows=1, subjects=scie,ca)
+Row 57: UPDATE ran for 'Samson Moses' (record id 1383, affected_rows=1, subjects=scie,ca)
+Row 58: UPDATE ran for 'Samuel Tsuma' (record id 1384, affected_rows=1, subjects=scie,ca)
+Row 59: UPDATE ran for 'Saumu Dzimwenga' (record id 1385, affected_rows=1, subjects=scie,ca)
+Row 60: SKIPPED - 'Sila Chaga' matched but no numeric marks found
+Row 61: UPDATE ran for 'Stephen Kazungu' (record id 1386, affected_rows=1, subjects=scie,ca)
+Row 62: UPDATE ran for 'Umazi Hassan' (record id 1387, affected_rows=1, subjects=scie,ca)
+Row 63: UPDATE ran for 'Zablon Mbunzi' (record id 1388, affected_rows=1, subjects=scie,ca)
+Row 64: UPDATE ran for 'Zuma Mwadiga' (record id 1389, affected_rows=1, subjects=scie,ca)
+RESULT: Upload complete — 0 new record(s) created, 59 mark(s) updated.
+Total students processed: 63
+Inserted: 0
+Updated: 59
+Skipped: 0
+Errors: 0
+
+========================================
+2026-10-02 06:27:49 - UPLOAD STARTED
+Total data rows read from file: 63
+Subject columns detected: scie, ca
+Existing exam2 records found for grade=6 term='Term 3' year=2026 exam_type=sub_county_exam_2026: 60
+Row 2: UPDATE ran for 'Annastacia Ngui' (record id 1408, affected_rows=1, subjects=scie,ca)
+Row 3: UPDATE ran for 'Bahati Karisa' (record id 1409, affected_rows=1, subjects=scie,ca)
+Row 4: UPDATE ran for 'Betty Mutheu' (record id 1410, affected_rows=1, subjects=scie,ca)
+Row 5: UPDATE ran for 'Binti Bakari' (record id 1411, affected_rows=1, subjects=scie,ca)
+Row 6: UPDATE ran for 'Caroline Mueke' (record id 1412, affected_rows=1, subjects=scie,ca)
+Row 7: UPDATE ran for 'Chizigwa Chimega' (record id 1413, affected_rows=1, subjects=scie,ca)
+Row 8: UPDATE ran for 'Collins Wanza' (record id 1414, affected_rows=1, subjects=scie,ca)
+Row 9: UPDATE ran for 'Daniel Kadzingo' (record id 1415, affected_rows=1, subjects=scie,ca)
+Row 10: UPDATE ran for 'Daniel Mzungu' (record id 1416, affected_rows=1, subjects=scie,ca)
+Row 11: UPDATE ran for 'Daniel Nasson' (record id 1417, affected_rows=1, subjects=scie,ca)
+Row 12: UPDATE ran for 'Dorcus Onyango' (record id 1465, affected_rows=1, subjects=scie,ca)
+Row 13: UPDATE ran for 'Dzadze Mudzomba' (record id 1418, affected_rows=1, subjects=scie,ca)
+Row 14: UPDATE ran for 'Eliud Makanga' (record id 1419, affected_rows=1, subjects=scie,ca)
+Row 15: UPDATE ran for 'Elizabeth Mjeni' (record id 1420, affected_rows=1, subjects=scie,ca)
+Row 16: SKIPPED - 'Elizabeth Munga' matched but no numeric marks found
+Row 17: UPDATE ran for 'Enoshi Tsimba' (record id 1422, affected_rows=1, subjects=scie,ca)
+Row 18: UPDATE ran for 'Esther Ngome' (record id 1423, affected_rows=1, subjects=scie,ca)
+Row 19: UPDATE ran for 'Evans Duga' (record id 1424, affected_rows=1, subjects=scie,ca)
+Row 20: UPDATE ran for 'Faith Fatuma' (record id 1425, affected_rows=1, subjects=scie,ca)
+Row 21: UPDATE ran for 'Gloria Festus' (record id 1426, affected_rows=1, subjects=scie,ca)
+Row 22: UPDATE ran for 'Grace Wambua' (record id 1427, affected_rows=1, subjects=scie,ca)
+Row 23: UPDATE ran for 'Habasi Hamisi' (record id 1428, affected_rows=1, subjects=scie,ca)
+Row 24: UPDATE ran for 'Halima Mtinda' (record id 1429, affected_rows=1, subjects=scie,ca)
+Row 25: UPDATE ran for 'Hamisi Kitumbua' (record id 1430, affected_rows=1, subjects=scie,ca)
+Row 26: UPDATE ran for 'Hamisi Masudi' (record id 1431, affected_rows=1, subjects=scie,ca)
+Row 27: UPDATE ran for 'Henry Mwanyika' (record id 1432, affected_rows=1, subjects=scie,ca)
+Row 28: UPDATE ran for 'Immaculate Mwero' (record id 1433, affected_rows=1, subjects=scie,ca)
+Row 29: UPDATE ran for 'James Kilonzo' (record id 1434, affected_rows=1, subjects=scie,ca)
+Row 30: UPDATE ran for 'Julita Mbula' (record id 1435, affected_rows=1, subjects=scie,ca)
+Row 31: UPDATE ran for 'Loice Chaka' (record id 1436, affected_rows=1, subjects=scie,ca)
+Row 32: UPDATE ran for 'Malkia Juma' (record id 1437, affected_rows=1, subjects=scie,ca)
+Row 33: UPDATE ran for 'Margaret Paul' (record id 1438, affected_rows=1, subjects=scie,ca)
+Row 34: SKIPPED - 'Mary Mwikali' matched but no numeric marks found
+Row 35: UPDATE ran for 'Mathew Dablon' (record id 1439, affected_rows=1, subjects=scie,ca)
+Row 36: UPDATE ran for 'Mercy Masika' (record id 1440, affected_rows=1, subjects=scie,ca)
+Row 37: UPDATE ran for 'Michael Francis' (record id 1441, affected_rows=1, subjects=scie,ca)
+Row 38: UPDATE ran for 'Miriam Mutheu' (record id 1442, affected_rows=1, subjects=scie,ca)
+Row 39: UPDATE ran for 'Mohammed Juma' (record id 1443, affected_rows=1, subjects=scie,ca)
+Row 40: UPDATE ran for 'Mohammed Ndoro' (record id 1466, affected_rows=1, subjects=scie,ca)
+Row 41: UPDATE ran for 'Mose Konga' (record id 1444, affected_rows=1, subjects=scie,ca)
+Row 42: UPDATE ran for 'Mueni Paul' (record id 1445, affected_rows=1, subjects=scie,ca)
+Row 43: UPDATE ran for 'Mulei Ali' (record id 1446, affected_rows=1, subjects=scie,ca)
+Row 44: UPDATE ran for 'Muli Mtua' (record id 1447, affected_rows=1, subjects=scie,ca)
+Row 45: UPDATE ran for 'Mwanajuma Hamisi' (record id 1448, affected_rows=1, subjects=scie,ca)
+Row 46: UPDATE ran for 'Mwanalima Dzine' (record id 1449, affected_rows=1, subjects=scie,ca)
+Row 47: UPDATE ran for 'Nadzuwa Ali' (record id 1450, affected_rows=1, subjects=scie,ca)
+Row 48: UPDATE ran for 'Nasra Ali' (record id 1451, affected_rows=1, subjects=scie,ca)
+Row 49: SKIPPED - 'Patterson Mwahanje' matched but no numeric marks found
+Row 50: UPDATE ran for 'Paul Wambua' (record id 1452, affected_rows=1, subjects=scie,ca)
+Row 51: UPDATE ran for 'Polina Tsuma' (record id 1453, affected_rows=1, subjects=scie,ca)
+Row 52: UPDATE ran for 'Priscilla Mzungu' (record id 1454, affected_rows=1, subjects=scie,ca)
+Row 53: UPDATE ran for 'Rasoa Tsimba' (record id 1455, affected_rows=1, subjects=scie,ca)
+Row 54: UPDATE ran for 'Ruwa Tsuma' (record id 1456, affected_rows=1, subjects=scie,ca)
+Row 55: SKIPPED - 'Saidi Abdalla' matched but no numeric marks found
+Row 56: UPDATE ran for 'Sammy Anderson' (record id 1457, affected_rows=1, subjects=scie,ca)
+Row 57: UPDATE ran for 'Samson Moses' (record id 1458, affected_rows=1, subjects=scie,ca)
+Row 58: UPDATE ran for 'Samuel Tsuma' (record id 1459, affected_rows=1, subjects=scie,ca)
+Row 59: UPDATE ran for 'Saumu Dzimwenga' (record id 1467, affected_rows=1, subjects=scie,ca)
+Row 60: UPDATE ran for 'Sila Chaga' (record id 1460, affected_rows=1, subjects=scie,ca)
+Row 61: UPDATE ran for 'Stephen Kazungu' (record id 1461, affected_rows=1, subjects=scie,ca)
+Row 62: UPDATE ran for 'Umazi Hassan' (record id 1462, affected_rows=1, subjects=scie,ca)
+Row 63: UPDATE ran for 'Zablon Mbunzi' (record id 1463, affected_rows=1, subjects=scie,ca)
+Row 64: UPDATE ran for 'Zuma Mwadiga' (record id 1464, affected_rows=1, subjects=scie,ca)
+RESULT: Upload complete — 0 new record(s) created, 59 mark(s) updated.
+Total students processed: 63
+Inserted: 0
+Updated: 59
+Skipped: 0
+Errors: 0
+
+========================================
+2026-10-09 04:48:16 - UPLOAD STARTED
+Total data rows read from file: 55
+
+========================================
+2026-10-09 05:29:31 - UPLOAD STARTED
+Total data rows read from file: 55
+
+========================================
+2026-10-09 05:33:25 - UPLOAD STARTED
+Total data rows read from file: 51
+Subject columns detected: math, eng, kisw, sst, agri
+Existing exam2 records found for grade=9 term='Term 3' year=2026 exam_type=sub_county_exam_2026: 0
+Row 2: INSERTED - 'Dennis Ndeti' (student_id 797)
+Row 3: INSERTED - 'Violet Njoroge' (student_id 811)
+Row 4: INSERTED - 'Jackline Masha' (student_id 826)
+Row 5: INSERTED - 'Tabitha Nganga' (student_id 793)
+Row 6: INSERTED - 'Samuel Rama' (student_id 823)
+Row 7: INSERTED - 'Riziki Karisa' (student_id 812)
+Row 8: INSERTED - 'Sauda Ngana' (student_id 800)
+Row 9: INSERTED - 'Daniella Samuel' (student_id 819)
+Row 10: INSERTED - 'Ruth Gudulo' (student_id 837)
+Row 11: INSERTED - 'Lucky Joseph' (student_id 834)
+Row 12: INSERTED - 'Gift Mwanza' (student_id 807)
+Row 13: INSERTED - 'Beatrice Njuguna' (student_id 835)
+Row 14: INSERTED - 'Mwende Jackline' (student_id 790)
+Row 15: INSERTED - 'Isaiah Dzitu' (student_id 796)
+Row 16: INSERTED - 'Swaleh Sikukuu' (student_id 794)
+Row 17: INSERTED - 'Christine Munyao' (student_id 813)
+Row 18: INSERTED - 'Juliet Robert' (student_id 818)
+Row 19: INSERTED - 'Masudi Juma' (student_id 789)
+Row 20: INSERTED - 'Zuwa Mdzomba' (student_id 829)
+Row 21: INSERTED - 'Mwanalima Mwasiku' (student_id 788)
+Row 22: INSERTED - 'Patrick Mwambela' (student_id 827)
+Row 23: INSERTED - 'Ann Kitumbua' (student_id 799)
+Row 24: INSERTED - 'Jackson Mwalimu' (student_id 832)
+Row 25: INSERTED - 'Fatuma Bora' (student_id 817)
+Row 26: INSERTED - 'Fred Mulei' (student_id 806)
+Row 27: INSERTED - 'Hussein Said' (student_id 810)
+Row 28: INSERTED - 'Mdzomba Mwanamisi' (student_id 804)
+Row 29: INSERTED - 'Rabbeca Jeremiah' (student_id 820)
+Row 30: INSERTED - 'Naomi Nyamai' (student_id 815)
+Row 31: INSERTED - 'Lillian Simon' (student_id 833)
+Row 32: SKIPPED - 'Rose Muthami' not found in Student table for grade 9
+Row 33: INSERTED - 'Mwanasiti Ndoro' (student_id 791)
+Row 34: INSERTED - 'Zuleikha Rama' (student_id 787)
+Row 35: INSERTED - 'Lillian Abel' (student_id 792)
+Row 36: INSERTED - 'Mwanajuma Hussein' (student_id 798)
+Row 37: INSERTED - 'Penina Samuel' (student_id 802)
+Row 38: INSERTED - 'Juma Suleiman' (student_id 808)
+Row 39: INSERTED - 'Halima Karisa' (student_id 803)
+Row 40: INSERTED - 'Grace Katana' (student_id 821)
+Row 41: INSERTED - 'Eunice Kengo' (student_id 830)
+Row 42: INSERTED - 'Michael Kibaki' (student_id 801)
+Row 43: INSERTED - 'Sangia Masemo' (student_id 836)
+Row 44: INSERTED - 'Musau Ndii' (student_id 831)
+Row 45: INSERTED - 'Bravian Nzula' (student_id 824)
+Row 46: INSERTED - 'Zeinab Mangale' (student_id 814)
+Row 47: INSERTED - 'Maria Chaga' (student_id 828)
+Row 48: INSERTED - 'Joseph Mutie' (student_id 825)
+Row 49: INSERTED - 'Stephen Tsuma' (student_id 816)
+Row 50: INSERTED - 'Shedrack Kitumbua' (student_id 795)
+Row 51: INSERTED - 'Kelvin Ali' (student_id 805)
+Row 52: INSERTED - 'Jackson Mwaringa' (student_id 809)
+RESULT: Upload complete — 50 new record(s) created, 0 mark(s) updated, 1 row(s) skipped (student not found or empty name).
+Total students processed: 51
+Inserted: 50
+Updated: 0
+Skipped: 1
+Errors: 0
+
+========================================
+2026-10-09 05:36:44 - UPLOAD STARTED
+Total data rows read from file: 52
+Subject columns detected: math, eng, kisw, scie, sst, ca, agri, re, pretec
+Existing exam2 records found for grade=9 term='Term 3' year=2026 exam_type=sub_county_exam_2026: 50
+Row 2: UPDATE ran for 'Lillian Abel' (record id 1502, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 3: UPDATE ran for 'Kelvin Ali' (record id 1518, affected_rows=1, subjects=math,eng,scie,sst,ca,agri,re,pretec)
+Row 4: UPDATE ran for 'Fatuma Bora' (record id 1493, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 5: UPDATE ran for 'Maria Chaga' (record id 1514, affected_rows=1, subjects=math,eng,kisw,scie,ca,agri,re,pretec)
+Row 6: UPDATE ran for 'Isaiah Dzitu' (record id 1483, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 7: UPDATE ran for 'Ruth Gudulo' (record id 1478, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 8: UPDATE ran for 'Mwanajuma Hussein' (record id 1503, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 9: UPDATE ran for 'Mwende Jackline' (record id 1482, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 10: UPDATE ran for 'Rabbeca Jeremiah' (record id 1497, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 11: UPDATE ran for 'Lucky Joseph' (record id 1479, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 12: UPDATE ran for 'Masudi Juma' (record id 1487, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 13: UPDATE ran for 'Halima Karisa' (record id 1506, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 14: UPDATE ran for 'Riziki Karisa' (record id 1475, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 15: UPDATE ran for 'Grace Katana' (record id 1507, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 16: UPDATE ran for 'Eunice Kengo' (record id 1508, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 17: UPDATE ran for 'Michael Kibaki' (record id 1509, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 18: UPDATE ran for 'Ann Kitumbua' (record id 1491, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 19: UPDATE ran for 'Shedrack Kitumbua' (record id 1517, affected_rows=1, subjects=math,eng,scie,ca,agri,re,pretec)
+Row 20: UPDATE ran for 'Zeinab Mangale' (record id 1513, affected_rows=1, subjects=math,kisw,scie,sst,ca,agri)
+Row 21: UPDATE ran for 'Sangia Masemo' (record id 1510, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 22: UPDATE ran for 'Jackline Masha' (record id 1472, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 23: INSERTED - 'Rose Masiki' (student_id 433)
+Row 24: UPDATE ran for 'Zuwa Mdzomba' (record id 1488, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 25: UPDATE ran for 'Fred Mulei' (record id 1494, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 26: UPDATE ran for 'Christine Munyao' (record id 1485, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 27: UPDATE ran for 'Joseph Mutie' (record id 1515, affected_rows=1, subjects=math,kisw,scie,sst,ca,agri,re,pretec)
+Row 28: SKIPPED - 'Sombaa Mutinda' matched but no numeric marks found
+Row 29: UPDATE ran for 'Jackson Mwalimu' (record id 1492, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 30: UPDATE ran for 'Patrick Mwambela' (record id 1490, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 31: UPDATE ran for 'Mdzomba Mwanamisi' (record id 1496, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 32: UPDATE ran for 'Gift Mwanza' (record id 1480, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 33: UPDATE ran for 'Jackson Mwaringa' (record id 1519, affected_rows=1, subjects=math,eng,scie,sst,ca,agri,re,pretec)
+Row 34: UPDATE ran for 'Mwanalima Mwasiku' (record id 1489, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 35: UPDATE ran for 'Dennis Ndeti' (record id 1470, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 36: UPDATE ran for 'Musau Ndii' (record id 1511, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 37: UPDATE ran for 'Mwanasiti Ndoro' (record id 1500, affected_rows=1, subjects=math,kisw,scie,sst,ca,agri,re,pretec)
+Row 38: UPDATE ran for 'Sauda Ngana' (record id 1476, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 39: UPDATE ran for 'Tabitha Nganga' (record id 1473, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 40: UPDATE ran for 'Violet Njoroge' (record id 1471, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 41: UPDATE ran for 'Beatrice Njuguna' (record id 1481, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 42: UPDATE ran for 'Naomi Nyamai' (record id 1498, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 43: UPDATE ran for 'Bravian Nzula' (record id 1512, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 44: UPDATE ran for 'Samuel Rama' (record id 1474, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 45: UPDATE ran for 'Zuleikha Rama' (record id 1501, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 46: UPDATE ran for 'Juliet Robert' (record id 1486, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 47: UPDATE ran for 'Hussein Said' (record id 1495, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 48: UPDATE ran for 'Daniella Samuel' (record id 1477, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 49: UPDATE ran for 'Penina Samuel' (record id 1504, affected_rows=1, subjects=math,kisw,scie,sst,agri,re,pretec)
+Row 50: UPDATE ran for 'Swaleh Sikukuu' (record id 1484, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 51: UPDATE ran for 'Lillian Simon' (record id 1499, affected_rows=1, subjects=math,eng,kisw,scie,ca,agri,re,pretec)
+Row 52: UPDATE ran for 'Juma Suleiman' (record id 1505, affected_rows=1, subjects=math,eng,kisw,scie,sst,ca,agri,re,pretec)
+Row 53: UPDATE ran for 'Stephen Tsuma' (record id 1516, affected_rows=1, subjects=math,eng,kisw,scie,ca,agri,re,pretec)
+RESULT: Upload complete — 1 new record(s) created, 50 mark(s) updated.
+Total students processed: 52
+Inserted: 1
+Updated: 50
+Skipped: 0
+Errors: 0

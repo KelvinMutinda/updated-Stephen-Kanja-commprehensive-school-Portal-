@@ -1,0 +1,27 @@
+RewriteEngine On
+
+# Anything under /api/ is a raw JSON endpoint hit by the mobile app —
+# never rewrite or redirect it. Without this, the "force clean URL" rule
+# below 301-redirects every request containing ".php" (including the
+# browser's OPTIONS preflight before a cross-origin POST), and a
+# redirected preflight response can't carry CORS headers — which is what
+# was causing "No Access-Control-Allow-Origin header is present" even
+# though login.php sets that header correctly.
+RewriteRule ^api/ - [L]
+
+# --- Hide .php extension: /Something behaves like Something.php ---
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)$ $1.php [NC,L]
+
+# --- Folder-style routing: ONLY for /Hoi/<page> -> Hoi.php?page=<page> ---
+# Restricted to a specific named base so it can never intercept an
+# unrelated two-segment path like /UploadResults/upload.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^Hoi/([A-Za-z0-9_-]+)/?$ Hoi.php?page=$1 [NC,L,QSA]
+
+# --- Force clean URL (no .php visible in the browser) ---
+RewriteCond %{THE_REQUEST} /([^.\s]+)\.php[\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
+
+ErrorDocument 404 /404.php
